@@ -1,7 +1,7 @@
-#Links I Love
+# Links I Love
 
 
-##*nix
+## *nix
 - [Bash 5.0 Release Available](https://lists.gnu.org/archive/html/bug-bash/2019-01/msg00063.html)
 - [Linux File System Evolution](http://research.cs.wisc.edu/adsl/Publications/fsstudy-fast13.pdf)
 - [Sed Pathfinder](https://devpost.com/software/sed-pathfinder)
@@ -13,19 +13,19 @@
 - [Linux Sucks. Forever](https://www.youtube.com/watch?v=TVHcdgrqbHE)
 - [Bash Completion](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial)
 
-##Productivity
+## Productivity
 - [8 productivity tips for Github](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
 - [Brain Hacks](https://news.ycombinator.com/item?id=18588727)
 - [To find a better solution, ask a better question](https://medium.com/s/story/to-find-a-better-solution-ask-a-better-question-3be7fee5af65)
 - [There is no such thing as motivation](https://medium.com/swlh/theres-no-such-thing-as-motivation-e02edd7de30)
 - [Power of Long Game](https://fs.blog/2018/10/long-game/)
 
-##Programming Languages
-###C
+## Programming Languages
+### C
 - [C for JS Devs: Program Compilation. Source vs Header Files](https://itnext.io/c-for-javascript-developers-program-compilation-source-vs-header-files-1829a69a0a56)
 - [Why aren't there C Conferences](https://nullprogram.com/blog/2018/11/21/)
 
-###Python
+### Python
 - [Inside Python dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - [WTFPython](https://github.com/satwikkansal/wtfpython)
 - [Python Descriptors](https://pabloariasal.github.io/2018/11/25/python-descriptors/)
@@ -35,18 +35,18 @@
 - [Parallel Processing in Python](https://www.machinelearningplus.com/python/parallel-processing-python/)
 - [Problem solving with algorithms & Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
 
-###Prolog
+### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
 - [Learn Prolog now](http://www.learnprolognow.org/lpnpage.php)
 
-###JS
+### JS
 - [Little Known JS features](https://blog.usejournal.com/little-known-features-of-javascript-901665291387?mkt_tok=eyJpIjoiWVRVd1l6aGtZVGN6TmpBeiIsInQiOiJVVWxOSGpUOTF5dlNwY1wvUG9sU3dJUEdaTDBIS09cLzdJMHdUQmpWeHpEdWxnRGlwWkpyQjcrbWJ4RnFZVzNBaUo5XC95Q0ZmTFdcL05aMEM0UlBuUng0QTRVR0Z6enM4U2dvNWFNS3UwWTZFVytqNjRPekZYejBEdDFIVm4zc3k5V3YifQ)
 - [History of JS](https://www.youtube.com/watch?v=CseCDFed458)
 
-###Clojure
+### Clojure
 - [Every Clojure talk ever](https://www.youtube.com/watch?v=jlPaby7suOc)
 
-###Learning Resources
+### Learning Resources
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 - [Duolingo 4 code](https://edabit.com/)
 - [Speakerdeck](https://speakerdeck.com/dabeaz)
@@ -55,12 +55,12 @@
 - [Flashcards for devs](https://www.flashcardsfordevelopers.com/)
 - [Scrimba](https://scrimba.com/)
 
-##Open Source
+## Open Source
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 - [How I built a Web Framework and became an open source maintainer](https://blog.florimondmanca.com/how-i-built-a-web-framework-and-became-an-open-source-maintainer)
 - [Entrevista con Jon "Maddog" Hall](https://www.youtube.com/watch?v=J0g28HC9eIk)
 
-##Infosec
+## Infosec
 - [A dive into the world of MS-DOS Viruses](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 - [12 best practices for User Account Management](https://cloud.google.com/blog/products/gcp/12-best-practices-for-user-account)
 - [Crypto 101](https://www.crypto101.io/)
@@ -76,8 +76,7 @@
 - [UEFI Explotation for the masses](https://www.youtube.com/watch?v=CxqNgjMZAbk)
 - [Do you really knows CORS?](http://performantcode.com/web/do-you-really-know-cors)
 
-
-##Software Development
+## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
 - [El desarrollo de Software como debería ser](https://www.youtube.com/watch?v=x4CXWBW5fMo)
 - [Consider Yourself a Developer?](https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c)
@@ -95,24 +94,24 @@
 - [50 Data structures and Algorithms interview questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 - [SO's three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-###Text Editors
+### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
 - [Lightable Code Editor](http://lighttable.com/)
 
-###Git
+### Git
 - [How not to be afraid of git anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286)
 - [Gitbase](https://opensource.com/article/18/11/gitbase)
 - [History & Arquitecture of Git](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 
-###QA
+### QA
 - [Hunting mutants with mutmut](https://medium.com/poka-techblog/hunting-mutants-with-mutmut-5f575b625598)
 - [List of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 - [Google Web Dev](https://web.dev/)
 - [Fuzzing book](https://www.fuzzingbook.org/)
 - [Volkswagen detects when your tests are being run in a CI server, and makes them pass](https://github.com/auchenberg/volkswagen)
 
-###Web Development
+### Web Development
 - [Web Development in 2019](https://github.com/kamranahmedse/developer-roadmap)
 - [App vs. Web](https://www.atrium.co/blog/founders-should-build-website-not-mobil)
 - [JS Traits](https://itnext.io/straits-9ef2b9a563cd)
@@ -121,25 +120,25 @@
 - [Immutable Web Apps](https://immutablewebapps.org/)
 - [Incomplete List of CSS Mistakes](https://wiki.csswg.org/ideas/mistakes)
 
-####Tools
+#### Tools
 - [Network Overrides](https://umaar.com/dev-tips/162-network-overrides/)
 - [CPU Throttling](https://umaar.com/dev-tips/88-cpu-throttling/)
 - [CSS Coverage](https://umaar.com/dev-tips/121-css-coverage/)
 - [Javascript visualizer](https://tylermcginnis.com/javascript-visualizer)
 
-##Lists
+## Lists
 - [Top PDFs of 2018 - HackerNews](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
 - [List of lists of interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-##Misc. Tools
+## Misc. Tools
 - [Build your personal knowledge base](https://github.com/zadam/trilium)
 - [Command Line Hex Viewer](https://github.com/sharkdp/hexyl)
 - [Google Drive CLI](https://github.com/nurdtechie98/drive-cli)
 - [Collaborative Whiteboard](https://wbo.openode.io/)
 - [Boss as a service](https://bossasaservice.life/)
 
-##Watercooler talks
+## Watercooler talks
 - [Zerodium raises 0-day payout ceiling to $2M](https://threatpost.com/zerodium-raises-zero-day-payout-ceiling-to-2m/140624/)
 - [How Millennials became the Burnout generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work)
 - [Emacs psychiatrist](https://opensource.com/article/18/12/linux-toy-eliza)
@@ -191,7 +190,7 @@
 - [Low-tech server](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website)
 - [Self-solving Rubik] https://media.dmm-make.com/item/4462/)
 
-###Videos
+### Videos
 - [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
 - [Lego Porsche Crashtest](https://www.youtube.com/watch?v=dCPWPj4JHqg)
 - [Precious Metal Refining](https://www.youtube.com/watch?v=v5GPWJPLcHg)
@@ -203,12 +202,12 @@
 - [Coding for the World's trickiest chip](https://www.youtube.com/watch?v=n8plen8cLro)
 - [Live coding](https://shipstreams.com)
 
-###Repos
+### Repos
 - [eDEX-UI](https://github.com/GitSquared/edex-ui)
 - [QuickLink](https://github.com/GoogleChromeLabs/quicklink)
 - [MS-DOS Code](https://github.com/Microsoft/MS-DOS)
 
-##Maths
+## Maths
 - [Fast Multiplication using Fourier Transform](http://blog.robertelder.org/fast-multiplication-using-fourier-transform)
 - [Anonymous 4chan poster solves 25 years old's mathematical problem](https://oeis.org/A180632/a180632.pdf)
 - [Non-euclidean worlds](https://www.youtube.com/watch?v=kEB11PQ9Eo8)
@@ -216,9 +215,9 @@
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Math & Analogies](https://betterexplained.com/articles/math-and-analogies/)
 
-##Software Architecture
+## Software Architecture
 - [10 tips for failing badly at microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 
-##Systems administration
+## Systems administration
 - [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - [Sysadmin left finger on power button for an hour to avert SAP outage](https://www.theregister.co.uk/2018/03/05/who_me/)
