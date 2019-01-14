@@ -19,6 +19,8 @@
 - [To find a better solution, ask a better question](https://medium.com/s/story/to-find-a-better-solution-ask-a-better-question-3be7fee5af65)
 - [There is no such thing as motivation](https://medium.com/swlh/theres-no-such-thing-as-motivation-e02edd7de30)
 - [Power of Long Game](https://fs.blog/2018/10/long-game/)
+- [High Quality Distractions](https://nickwignall.com/high-quality-distractions/)
+- [Ulysses Pact](https://nickwignall.com/ulysses-pact/)
 
 ## Programming Languages
 ### C
@@ -189,6 +191,7 @@
 - [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
 - [Low-tech server](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website)
 - [Self-solving Rubik] https://media.dmm-make.com/item/4462/)
+- [Post-Truth Realism and a Musical Reconstruction](https://buttondown.email/ayjay/archive/76e797b5-70a0-4a69-9f9a-218afb108b30)
 
 ### Videos
 - [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
