@@ -95,6 +95,7 @@
 - [Sleep Sort](https://rosettacode.org/wiki/Sorting_algorithms/Sleep_sort)
 - [50 Data structures and Algorithms interview questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 - [SO's three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Dynamic Programming vs. Divide and Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
