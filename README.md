@@ -191,7 +191,7 @@
 - [Times Newer Roman](https://www.theverge.com/2018/9/18/17875054/times-newer-roman-font-essay-length)
 - [Poka-Yoke](https://en.wikipedia.org/wiki/Poka-yoke)
 - [Low-tech server](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website)
-- [Self-solving Rubik] https://media.dmm-make.com/item/4462/)
+- [Self-solving Rubik](https://media.dmm-make.com/item/4462/)
 - [Post-Truth Realism and a Musical Reconstruction](https://buttondown.email/ayjay/archive/76e797b5-70a0-4a69-9f9a-218afb108b30)
 
 ### Videos
