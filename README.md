@@ -96,7 +96,7 @@
 - [50 Data structures and Algorithms interview questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 - [SO's three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Dynamic Programming vs. Divide and Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
-
+- [A bit about Binary Tree](https://medium.com/smelly-code/a-bit-about-binary-tree-111e2d600974)
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
 - [Lightable Code Editor](http://lighttable.com/)
@@ -225,3 +225,6 @@
 ## Systems administration
 - [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - [Sysadmin left finger on power button for an hour to avert SAP outage](https://www.theregister.co.uk/2018/03/05/who_me/)
+
+## AI
+- [Translator for AI](https://www.quantamagazine.org/been-kim-is-building-a-translator-for-artificial-intelligence-20190110)
