@@ -128,6 +128,7 @@
 - [CPU Throttling](https://umaar.com/dev-tips/88-cpu-throttling/)
 - [CSS Coverage](https://umaar.com/dev-tips/121-css-coverage/)
 - [Javascript visualizer](https://tylermcginnis.com/javascript-visualizer)
+- [Shiny reflections for mobile websites](https://github.com/rikschennink/shiny)
 
 ## Lists
 - [Top PDFs of 2018 - HackerNews](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
@@ -193,7 +194,7 @@
 - [Low-tech server](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website)
 - [Self-solving Rubik](https://media.dmm-make.com/item/4462/)
 - [Post-Truth Realism and a Musical Reconstruction](https://buttondown.email/ayjay/archive/76e797b5-70a0-4a69-9f9a-218afb108b30)
-
+- [How to find hidden cameras](https://www.senteltechsecurity.com/blog/post/how-to-find-hidden-cameras/)
 ### Videos
 - [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
 - [Lego Porsche Crashtest](https://www.youtube.com/watch?v=dCPWPj4JHqg)
