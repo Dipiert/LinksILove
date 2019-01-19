@@ -21,6 +21,7 @@
 - [Power of Long Game](https://fs.blog/2018/10/long-game/)
 - [High Quality Distractions](https://nickwignall.com/high-quality-distractions/)
 - [Ulysses Pact](https://nickwignall.com/ulysses-pact/)
+- [Bash Profile - Aliases](https://news.ycombinator.com/item?id=18898523)
 
 ## Programming Languages
 ### C
@@ -47,6 +48,9 @@
 
 ### Clojure
 - [Every Clojure talk ever](https://www.youtube.com/watch?v=jlPaby7suOc)
+
+### PHP
+- [PHP Apprentice](https://phpapprentice.com/)
 
 ### Learning Resources
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
@@ -77,6 +81,7 @@
 - [VirtualBox 0day](https://github.com/MorteNoir1/virtualbox_e1000_0day)
 - [UEFI Explotation for the masses](https://www.youtube.com/watch?v=CxqNgjMZAbk)
 - [Do you really knows CORS?](http://performantcode.com/web/do-you-really-know-cors)
+- [Be safe online](https://securitycheckli.st/)
 
 ## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
@@ -91,12 +96,18 @@
 - [Toward a Better Programming](http://www.chris-granger.com/2014/03/27/toward-a-better-programming/)
 - [Imaginary Problems](https://medium.com/s/story/imaginary-problems-d4f2921bd1b8)
 - [Programming Quotes](http://quotes.cat-v.org/programming/)
-- [Elegant Algorithms](https://news.ycombinator.com/item?id=18236396)
 - [Sleep Sort](https://rosettacode.org/wiki/Sorting_algorithms/Sleep_sort)
-- [50 Data structures and Algorithms interview questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 - [SO's three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Dynamic Programming vs. Divide and Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
+- [Full-stack resources for devs](https://github.com/charlax/professional-programming)
+
+### Algorithms and Data structures
+- [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
 - [A bit about Binary Tree](https://medium.com/smelly-code/a-bit-about-binary-tree-111e2d600974)
+- [50 Data structures and Algorithms interview questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+- [Elegant Algorithms](https://news.ycombinator.com/item?id=18236396)
+
+
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
 - [Lightable Code Editor](http://lighttable.com/)
@@ -106,6 +117,7 @@
 - [Gitbase](https://opensource.com/article/18/11/gitbase)
 - [History & Arquitecture of Git](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
+- [How to teach git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 
 ### QA
 - [Hunting mutants with mutmut](https://medium.com/poka-techblog/hunting-mutants-with-mutmut-5f575b625598)
@@ -195,6 +207,12 @@
 - [Self-solving Rubik](https://media.dmm-make.com/item/4462/)
 - [Post-Truth Realism and a Musical Reconstruction](https://buttondown.email/ayjay/archive/76e797b5-70a0-4a69-9f9a-218afb108b30)
 - [How to find hidden cameras](https://www.senteltechsecurity.com/blog/post/how-to-find-hidden-cameras/)
+- [Pink Trombone](https://dood.al/pinktrombone/)
+- [How Many People are around? Repo](https://github.com/schollz/howmanypeoplearearound)
+- [Google Maps on ISS](https://www.google.com/maps/@29.5602853,-95.0853914,2a,75y,196.66h,92.72t/data=!3m7!1e1!3m5!1szChzPIAn4RIAAAQvxgbyEg!2e0!3e5!7i10000!8i5000)
+- [The route of a text message](https://scottbot.net/the-route-of-a-text-message/)
+- [Most of what you read on the Internet is written by insane people](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/)
+
 ### Videos
 - [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
 - [Lego Porsche Crashtest](https://www.youtube.com/watch?v=dCPWPj4JHqg)
@@ -206,6 +224,7 @@
 - [Glitter Bomb](https://www.bbc.com/news/technology-46604625)
 - [Coding for the World's trickiest chip](https://www.youtube.com/watch?v=n8plen8cLro)
 - [Live coding](https://shipstreams.com)
+- [The most unexpected answer to a counting puzzle](https://www.youtube.com/watch?v=HEfHFsfGXjs)
 
 ### Repos
 - [eDEX-UI](https://github.com/GitSquared/edex-ui)
@@ -219,6 +238,7 @@
 - [Elementos de Euclides interactivo](https://www.c82.net/euclid/)
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Math & Analogies](https://betterexplained.com/articles/math-and-analogies/)
+- [Interactive introduction to Fourier Transform](http://www.jezzamon.com/fourier/index.html)
 
 ## Software Architecture
 - [10 tips for failing badly at microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
@@ -229,3 +249,4 @@
 
 ## AI
 - [Translator for AI](https://www.quantamagazine.org/been-kim-is-building-a-translator-for-artificial-intelligence-20190110)
+- [Unprovability comes to machine learning](https://www.nature.com/articles/d41586-019-00012-4)
