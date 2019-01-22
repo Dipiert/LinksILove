@@ -22,6 +22,7 @@
 - [High Quality Distractions](https://nickwignall.com/high-quality-distractions/)
 - [Ulysses Pact](https://nickwignall.com/ulysses-pact/)
 - [Bash Profile - Aliases](https://news.ycombinator.com/item?id=18898523)
+- [How not to be afraid of vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 
 ## Programming Languages
 ### C
@@ -100,6 +101,7 @@
 - [SO's three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Dynamic Programming vs. Divide and Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 - [Full-stack resources for devs](https://github.com/charlax/professional-programming)
+- [What I've learned in 10 years as an SDE](https://medium.com/expedia-engineering/what-ive-learned-in-10-years-as-an-sde-9cea19aac0ce)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
