@@ -12,6 +12,8 @@
 - [UNIX history repo](https://github.com/dspinellis/unix-history-repo)
 - [Linux Sucks. Forever](https://www.youtube.com/watch?v=TVHcdgrqbHE)
 - [Bash Completion](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial)
+- [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
+- [Vim: How to start using the Text Editor for Devs](https://hackernoon.com/vim-the-text-editor-millenials-are-killing-and-how-we-can-stop-them-feadc8d5038)
 
 ## Productivity
 - [8 productivity tips for Github](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
@@ -214,6 +216,7 @@
 - [Google Maps on ISS](https://www.google.com/maps/@29.5602853,-95.0853914,2a,75y,196.66h,92.72t/data=!3m7!1e1!3m5!1szChzPIAn4RIAAAQvxgbyEg!2e0!3e5!7i10000!8i5000)
 - [The route of a text message](https://scottbot.net/the-route-of-a-text-message/)
 - [Most of what you read on the Internet is written by insane people](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/)
+- [Belle (chess machine)](https://en.wikipedia.org/wiki/Belle_(chess_machine))
 
 ### Videos
 - [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
