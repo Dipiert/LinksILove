@@ -40,6 +40,8 @@
 - [Fifty Fizzbuzzes](https://github.com/vihart/fiftyfizzbuzzes/blob/master/Fifty%20Fizzbuzzes.ipynb)
 - [Parallel Processing in Python](https://www.machinelearningplus.com/python/parallel-processing-python/)
 - [Problem solving with algorithms & Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
+- [What I've learned about optimizing python](https://gregoryszorc.com/blog/2019/01/10/what-i've-learned-about-optimizing-python/)
+- [Beyond the Hello Word of Python's print function](http://blog.lerner.co.il/beyond-the-hello-world-of-pythons-print-function/)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
@@ -85,6 +87,8 @@
 - [UEFI Explotation for the masses](https://www.youtube.com/watch?v=CxqNgjMZAbk)
 - [Do you really knows CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [Be safe online](https://securitycheckli.st/)
+- [Apt RCE](https://justi.cz/security/2019/01/22/apt-rce.html)
+- [Mystery still surrounds hack of php pear website](https://www.zdnet.com/article/mystery-still-surrounds-hack-of-php-pear-website)
 
 ## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
