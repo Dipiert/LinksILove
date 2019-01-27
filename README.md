@@ -25,6 +25,7 @@
 - [Ulysses Pact](https://nickwignall.com/ulysses-pact/)
 - [Bash Profile - Aliases](https://news.ycombinator.com/item?id=18898523)
 - [How not to be afraid of vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
+- [How to be successful](http://blog.samaltman.com/how-to-be-successful)
 
 ## Programming Languages
 ### C
@@ -89,6 +90,8 @@
 - [Be safe online](https://securitycheckli.st/)
 - [Apt RCE](https://justi.cz/security/2019/01/22/apt-rce.html)
 - [Mystery still surrounds hack of php pear website](https://www.zdnet.com/article/mystery-still-surrounds-hack-of-php-pear-website)
+- [The practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
+- [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
 
 ## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
@@ -108,13 +111,20 @@
 - [Dynamic Programming vs. Divide and Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 - [Full-stack resources for devs](https://github.com/charlax/professional-programming)
 - [What I've learned in 10 years as an SDE](https://medium.com/expedia-engineering/what-ive-learned-in-10-years-as-an-sde-9cea19aac0ce)
+- [Our Software Dependency problem](https://research.swtch.com/dep)
+- [The art of Unix programming](https://arp242.net/the-art-of-unix-programming/)
+- [Why do we need architectural diagrams?](https://www.infoq.com/articles/why-architectural-diagram)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
 - [A bit about Binary Tree](https://medium.com/smelly-code/a-bit-about-binary-tree-111e2d600974)
 - [50 Data structures and Algorithms interview questions](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 - [Elegant Algorithms](https://news.ycombinator.com/item?id=18236396)
+- [Google Interview Problems: Synonymous queries](https://medium.com/@alexgolec/google-interview-problems-synonymous-queries-36425145387c)
+- [Interview Questions](https://www.careercup.com/)
 
+### Databases
+- [Postgresql Internals](http://www.interdb.jp/pg/index.html)
 
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
@@ -154,6 +164,8 @@
 - [Top PDFs of 2018 - HackerNews](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
 - [List of lists of interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Professional Programming](https://github.com/charlax/professional-programming)
+- [Public Speaking](https://github.com/vmbrasseur/Public_Speaking)
 
 ## Misc. Tools
 - [Build your personal knowledge base](https://github.com/zadam/trilium)
@@ -221,6 +233,11 @@
 - [The route of a text message](https://scottbot.net/the-route-of-a-text-message/)
 - [Most of what you read on the Internet is written by insane people](https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/)
 - [Belle (chess machine)](https://en.wikipedia.org/wiki/Belle_(chess_machine))
+- [Why are eyeglasses so expensive?](https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html)
+- [Replacing Facebook](https://blog.chaddickerson.com/2019/01/09/replacing-facebook/)
+- [25 years of coding and Im just beginning](https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n)
+- [Programming fonts](https://app.programmingfonts.org/)
+- [Immersive Flight](http://www.tinmith.net/wayne/blog/2017/06/immersive-flight-sim-4.htm)
 
 ### Videos
 - [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
@@ -234,12 +251,13 @@
 - [Coding for the World's trickiest chip](https://www.youtube.com/watch?v=n8plen8cLro)
 - [Live coding](https://shipstreams.com)
 - [The most unexpected answer to a counting puzzle](https://www.youtube.com/watch?v=HEfHFsfGXjs)
+- [Science fiction broken](https://slate.com/technology/2019/01/hopepunk-cyberpunk-solarpunk-science-fiction-broken.html)
 
 ### Repos
 - [eDEX-UI](https://github.com/GitSquared/edex-ui)
 - [QuickLink](https://github.com/GoogleChromeLabs/quicklink)
 - [MS-DOS Code](https://github.com/Microsoft/MS-DOS)
-
+- [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto)
 ## Maths
 - [Fast Multiplication using Fourier Transform](http://blog.robertelder.org/fast-multiplication-using-fourier-transform)
 - [Anonymous 4chan poster solves 25 years old's mathematical problem](https://oeis.org/A180632/a180632.pdf)
@@ -251,6 +269,7 @@
 
 ## Software Architecture
 - [10 tips for failing badly at microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
+- [What's the difference between a process, a container and a VM?](https://medium.com/@jessgreb01/what-is-the-difference-between-a-process-a-container-and-a-vm-f36ba0f8a8f7)
 
 ## Systems administration
 - [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
