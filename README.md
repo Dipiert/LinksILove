@@ -113,7 +113,7 @@
 - [What I've learned in 10 years as an SDE](https://medium.com/expedia-engineering/what-ive-learned-in-10-years-as-an-sde-9cea19aac0ce)
 - [Our Software Dependency problem](https://research.swtch.com/dep)
 - [The art of Unix programming](https://arp242.net/the-art-of-unix-programming/)
-- [Why do we need architectural diagrams?](https://www.infoq.com/articles/why-architectural-diagram)
+- [Refactor's catalog](https://refactoring.com/catalog/)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
@@ -270,6 +270,7 @@
 ## Software Architecture
 - [10 tips for failing badly at microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 - [What's the difference between a process, a container and a VM?](https://medium.com/@jessgreb01/what-is-the-difference-between-a-process-a-container-and-a-vm-f36ba0f8a8f7)
+- [Why do we need architectural diagrams?](https://www.infoq.com/articles/why-architectural-diagram)
 
 ## Systems administration
 - [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
