@@ -66,6 +66,8 @@
 - [Resources for Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [Flashcards for devs](https://www.flashcardsfordevelopers.com/)
 - [Scrimba](https://scrimba.com/)
+- [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+
 
 ## Open Source
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
@@ -75,7 +77,6 @@
 ## Infosec
 - [A dive into the world of MS-DOS Viruses](https://blog.benjojo.co.uk/post/dive-into-the-world-of-dos-viruses)
 - [12 best practices for User Account Management](https://cloud.google.com/blog/products/gcp/12-best-practices-for-user-account)
-- [Crypto 101](https://www.crypto101.io/)
 - [Awesome hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Crypto4devs](https://cryptobook.nakov.com/)
 - [Supply Chain Security](https://krebsonsecurity.com/2018/10/supply-chain-security-101-an-experts-view/)
@@ -92,6 +93,15 @@
 - [Mystery still surrounds hack of php pear website](https://www.zdnet.com/article/mystery-still-surrounds-hack-of-php-pear-website)
 - [The practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
+- [FaceTime bug lets you hear the audio of the person you are calling](https://9to5mac.com/2019/01/28/facetime-bug-hear-audio)
+- [Zerodium raises 0-day payout ceiling to $2M](https://threatpost.com/zerodium-raises-zero-day-payout-ceiling-to-2m/140624/)
+
+##Books
+- [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
+- [Crypto 101](https://www.crypto101.io/)
+- [Elementos de Euclides interactivo](https://www.c82.net/euclid/)
+- [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+- [Some fundamental theorems in mathematics](https://arxiv.org/pdf/1807.08416.pdf)
 
 ## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
@@ -176,7 +186,6 @@
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon)
 
 ## Watercooler talks
-- [Zerodium raises 0-day payout ceiling to $2M](https://threatpost.com/zerodium-raises-zero-day-payout-ceiling-to-2m/140624/)
 - [How Millennials became the Burnout generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work)
 - [Emacs psychiatrist](https://opensource.com/article/18/12/linux-toy-eliza)
 - [Shanghai in 195 Gigapixels](http://sh-meet.bigpixel.cn/)
@@ -206,7 +215,6 @@
 - [How Google is slowing innovation?](https://medium.com/swlh/how-google-is-slowing-innovation-d53161108ea2)
 - [Getafix](https://code.fb.com/developer-tools/getafix-how-facebook-tools-learn-to-fix-bugs-automatically/)
 - [Joke in the glibc manual](https://lwn.net/SubscriberLink/770966/59c167cf87385449/)
-- [The Mine](https://codepen.io/jcoulterdesign/pen/NOMeEb)
 - [Dancing Robots](https://codepen.io/ge1doot/pen/LXPaME)
 - [Perceptual Illusions](http://nautil.us/blog/12-mind_bending-perceptual-illusions)
 - [Saddle chair](https://en.wikipedia.org/wiki/Saddle_chair)
@@ -228,7 +236,6 @@
 - [Self-solving Rubik](https://media.dmm-make.com/item/4462/)
 - [Post-Truth Realism and a Musical Reconstruction](https://buttondown.email/ayjay/archive/76e797b5-70a0-4a69-9f9a-218afb108b30)
 - [How to find hidden cameras](https://www.senteltechsecurity.com/blog/post/how-to-find-hidden-cameras/)
-- [Pink Trombone](https://dood.al/pinktrombone/)
 - [How Many People are around? Repo](https://github.com/schollz/howmanypeoplearearound)
 - [Google Maps on ISS](https://www.google.com/maps/@29.5602853,-95.0853914,2a,75y,196.66h,92.72t/data=!3m7!1e1!3m5!1szChzPIAn4RIAAAQvxgbyEg!2e0!3e5!7i10000!8i5000)
 - [The route of a text message](https://scottbot.net/the-route-of-a-text-message/)
@@ -239,6 +246,11 @@
 - [25 years of coding and Im just beginning](https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n)
 - [Programming fonts](https://app.programmingfonts.org/)
 - [Immersive Flight](http://www.tinmith.net/wayne/blog/2017/06/immersive-flight-sim-4.htm)
+
+###Games
+- [8-bit workshop](https://8bitworkshop.com/)
+- [Pink Trombone](https://dood.al/pinktrombone/)
+- [The Mine](https://codepen.io/jcoulterdesign/pen/NOMeEb)
 
 ### Videos
 - [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
@@ -264,8 +276,6 @@
 - [Fast Multiplication using Fourier Transform](http://blog.robertelder.org/fast-multiplication-using-fourier-transform)
 - [Anonymous 4chan poster solves 25 years old's mathematical problem](https://oeis.org/A180632/a180632.pdf)
 - [Non-euclidean worlds](https://www.youtube.com/watch?v=kEB11PQ9Eo8)
-- [Elementos de Euclides interactivo](https://www.c82.net/euclid/)
-- [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Math & Analogies](https://betterexplained.com/articles/math-and-analogies/)
 - [Interactive introduction to Fourier Transform](http://www.jezzamon.com/fourier/index.html)
 
