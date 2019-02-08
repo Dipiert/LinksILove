@@ -95,6 +95,7 @@
 - [Linux Hardening Checklist](https://github.com/trimstray/linux-hardening-checklist)
 - [FaceTime bug lets you hear the audio of the person you are calling](https://9to5mac.com/2019/01/28/facetime-bug-hear-audio)
 - [Zerodium raises 0-day payout ceiling to $2M](https://threatpost.com/zerodium-raises-zero-day-payout-ceiling-to-2m/140624/)
+- [Awesome Python security](https://github.com/guardrailsio/awesome-python-security)
 
 ##Books
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
@@ -102,6 +103,7 @@
 - [Elementos de Euclides interactivo](https://www.c82.net/euclid/)
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Some fundamental theorems in mathematics](https://arxiv.org/pdf/1807.08416.pdf)
+- [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html)
 
 ## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
@@ -162,6 +164,7 @@
 - [A Warm welcome to dns](https://powerdns.org/hello-dns/)
 - [Immutable Web Apps](https://immutablewebapps.org/)
 - [Incomplete List of CSS Mistakes](https://wiki.csswg.org/ideas/mistakes)
+- [What's the space overhead of base64 encoding](https://lemire.me/blog/2019/01/30/what-is-the-space-overhead-of-base64-encoding/)
 
 #### Tools
 - [Network Overrides](https://umaar.com/dev-tips/162-network-overrides/)
@@ -176,6 +179,7 @@
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [Professional Programming](https://github.com/charlax/professional-programming)
 - [Public Speaking](https://github.com/vmbrasseur/Public_Speaking)
+- [Public APIs](https://github.com/toddmotto/public-apis)
 
 ## Misc. Tools
 - [Build your personal knowledge base](https://github.com/zadam/trilium)
