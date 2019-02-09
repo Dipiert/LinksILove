@@ -26,6 +26,7 @@
 - [Bash Profile - Aliases](https://news.ycombinator.com/item?id=18898523)
 - [How not to be afraid of vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 - [How to be successful](http://blog.samaltman.com/how-to-be-successful)
+- [Compounding Knowledge](https://fs.blog/2019/02/compounding-knowledge/)
 
 ## Programming Languages
 ### C
@@ -67,7 +68,7 @@
 - [Flashcards for devs](https://www.flashcardsfordevelopers.com/)
 - [Scrimba](https://scrimba.com/)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
-
+- [Hacker Tools](https://hacker-tools.github.io/)
 
 ## Open Source
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
@@ -104,6 +105,8 @@
 - [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - [Some fundamental theorems in mathematics](https://arxiv.org/pdf/1807.08416.pdf)
 - [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html)
+- [Interactive SICP](https://xuanji.appspot.com/isicp/)
+- [Statistics done wrong](https://www.statisticsdonewrong.com/)
 
 ## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
@@ -126,7 +129,8 @@
 - [Our Software Dependency problem](https://research.swtch.com/dep)
 - [The art of Unix programming](https://arp242.net/the-art-of-unix-programming/)
 - [Refactor's catalog](https://refactoring.com/catalog/)
-
+- [Dotfile Madness](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
+- [Learn Computer Graphics from Scratch!](http://www.scratchapixel.com/)
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
 - [A bit about Binary Tree](https://medium.com/smelly-code/a-bit-about-binary-tree-111e2d600974)
@@ -155,6 +159,8 @@
 - [Google Web Dev](https://web.dev/)
 - [Fuzzing book](https://www.fuzzingbook.org/)
 - [Volkswagen detects when your tests are being run in a CI server, and makes them pass](https://github.com/auchenberg/volkswagen)
+- [Fuzzing like it's 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)
+
 
 ### Web Development
 - [Web Development in 2019](https://github.com/kamranahmedse/developer-roadmap)
@@ -255,6 +261,9 @@
 - [8-bit workshop](https://8bitworkshop.com/)
 - [Pink Trombone](https://dood.al/pinktrombone/)
 - [The Mine](https://codepen.io/jcoulterdesign/pen/NOMeEb)
+- [ASCII 3D](https://yeahpython.github.io/game/game.html)
+- [Model Metropolis](https://logicmag.io/06-model-metropolis/)
+- [Linjat - a puzzle game](https://linjat.snellman.net/)
 
 ### Videos
 - [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
