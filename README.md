@@ -27,6 +27,7 @@
 - [How not to be afraid of vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 - [How to be successful](http://blog.samaltman.com/how-to-be-successful)
 - [Compounding Knowledge](https://fs.blog/2019/02/compounding-knowledge/)
+- [Pretend your time is worth US$1000/hour](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
 
 ## Programming Languages
 ### C
@@ -138,9 +139,12 @@
 - [Elegant Algorithms](https://news.ycombinator.com/item?id=18236396)
 - [Google Interview Problems: Synonymous queries](https://medium.com/@alexgolec/google-interview-problems-synonymous-queries-36425145387c)
 - [Interview Questions](https://www.careercup.com/)
+- [OOP before OOP with Simula](https://twobithistory.org/2019/01/31/simula.html)
 
 ### Databases
 - [Postgresql Internals](http://www.interdb.jp/pg/index.html)
+- [Life of a SQL Query](https://numeracy.co/blog/life-of-a-sql-query)
+- [Explaining the unexplainable](https://www.depesz.com/2013/04/16/explaining-the-unexplainable/)
 
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
@@ -152,6 +156,7 @@
 - [History & Arquitecture of Git](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - [How to teach git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+- [Git History - Tool](https://github.com/pomber/git-history)
 
 ### QA
 - [Hunting mutants with mutmut](https://medium.com/poka-techblog/hunting-mutants-with-mutmut-5f575b625598)
@@ -297,6 +302,7 @@
 - [What's the difference between a process, a container and a VM?](https://medium.com/@jessgreb01/what-is-the-difference-between-a-process-a-container-and-a-vm-f36ba0f8a8f7)
 - [Why do we need architectural diagrams?](https://www.infoq.com/articles/why-architectural-diagram)
 - [An incremental architecture approach to building systems](https://www.infoq.com/news/2019/01/rearchitecture-system-success)
+- [What if the Architect is wrong?](https://www.yegor256.com/2019/01/15/what-if-architect-is-wrong.html)
 
 ## Systems administration
 - [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
