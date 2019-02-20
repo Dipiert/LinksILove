@@ -53,6 +53,7 @@
 ### JS
 - [Little Known JS features](https://blog.usejournal.com/little-known-features-of-javascript-901665291387?mkt_tok=eyJpIjoiWVRVd1l6aGtZVGN6TmpBeiIsInQiOiJVVWxOSGpUOTF5dlNwY1wvUG9sU3dJUEdaTDBIS09cLzdJMHdUQmpWeHpEdWxnRGlwWkpyQjcrbWJ4RnFZVzNBaUo5XC95Q0ZmTFdcL05aMEM0UlBuUng0QTRVR0Z6enM4U2dvNWFNS3UwWTZFVytqNjRPekZYejBEdDFIVm4zc3k5V3YifQ)
 - [History of JS](https://www.youtube.com/watch?v=CseCDFed458)
+- [Compiler Basics: Lisp to assembly](http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
 
 ### Clojure
 - [Every Clojure talk ever](https://www.youtube.com/watch?v=jlPaby7suOc)
@@ -70,6 +71,7 @@
 - [Scrimba](https://scrimba.com/)
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [Hacker Tools](https://hacker-tools.github.io/)
+- [Riddles](https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml)
 
 ## Open Source
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
@@ -132,6 +134,12 @@
 - [Refactor's catalog](https://refactoring.com/catalog/)
 - [Dotfile Madness](https://0x46.net/thoughts/2019/02/01/dotfile-madness/)
 - [Learn Computer Graphics from Scratch!](http://www.scratchapixel.com/)
+- [Fatherly Advice to new programmers](http://removingalldoubt.com/programming/2006/09/19/Fatherly-Advice-To-New-Programmers)
+- [Get famous by not programming](http://steve-yegge.blogspot.com/2006/07/get-famous-by-not-programming.html)
+- [The best code is no code at all](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
+- [Why I'm the best programmer in the world](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/)
+- [So you want to be a Wizard?](https://jvns.ca/blog/so-you-want-to-be-a-wizard/)
+
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
 - [A bit about Binary Tree](https://medium.com/smelly-code/a-bit-about-binary-tree-111e2d600974)
@@ -145,6 +153,8 @@
 - [Postgresql Internals](http://www.interdb.jp/pg/index.html)
 - [Life of a SQL Query](https://numeracy.co/blog/life-of-a-sql-query)
 - [Explaining the unexplainable](https://www.depesz.com/2013/04/16/explaining-the-unexplainable/)
+- [SQL: Most valueable skill](http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill)
+- [Understanding Postgres Performance](http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
 
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
@@ -261,6 +271,9 @@
 - [25 years of coding and Im just beginning](https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n)
 - [Programming fonts](https://app.programmingfonts.org/)
 - [Immersive Flight](http://www.tinmith.net/wayne/blog/2017/06/immersive-flight-sim-4.htm)
+- [If loving computers is wrong, I don't want to be right](https://blog.codinghorror.com/if-loving-computers-is-wrong-i-dont-want-to-be-right/)
+- [Microsoft Bob](https://en.wikipedia.org/wiki/Microsoft_Bob)
+- [Amb Operator](http://www.randomhacks.net/2005/10/11/amb-operator)
 
 ###Games
 - [8-bit workshop](https://8bitworkshop.com/)
@@ -289,6 +302,7 @@
 - [QuickLink](https://github.com/GoogleChromeLabs/quicklink)
 - [MS-DOS Code](https://github.com/Microsoft/MS-DOS)
 - [ContrAlto](https://github.com/livingcomputermuseum/ContrAlto)
+- [THe all-purpose procedural text library](https://github.com/TheBerkin/rant)
 
 ## Maths
 - [Fast Multiplication using Fourier Transform](http://blog.robertelder.org/fast-multiplication-using-fourier-transform)
