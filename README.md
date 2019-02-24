@@ -14,6 +14,7 @@
 - [Bash Completion](https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial)
 - [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 - [Vim: How to start using the Text Editor for Devs](https://hackernoon.com/vim-the-text-editor-millenials-are-killing-and-how-we-can-stop-them-feadc8d5038)
+- [Problem solving with Unix commands](http://vegardstikbakke.com/unix)
 
 ## Productivity
 - [8 productivity tips for Github](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
@@ -45,7 +46,8 @@
 - [Problem solving with algorithms & Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
 - [What I've learned about optimizing python](https://gregoryszorc.com/blog/2019/01/10/what-i've-learned-about-optimizing-python/)
 - [Beyond the Hello Word of Python's print function](http://blog.lerner.co.il/beyond-the-hello-world-of-pythons-print-function/)
-
+- [str.isdigit vs str.isnumeric](https://blog.lerner.co.il/pythons-str-isdigit-vs-str-isnumeric/)
+- [String Formatting](https://kite.com/blog/python/python-string-formatting)
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
 - [Learn Prolog now](http://www.learnprolognow.org/lpnpage.php)
@@ -139,6 +141,7 @@
 - [The best code is no code at all](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
 - [Why I'm the best programmer in the world](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/)
 - [So you want to be a Wizard?](https://jvns.ca/blog/so-you-want-to-be-a-wizard/)
+- [We don't do that here](http://www.thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
