@@ -74,7 +74,7 @@
 - [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
 - [Hacker Tools](https://hacker-tools.github.io/)
 - [Riddles](https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml)
-
+- [Linux Journey](https://linuxjourney.com/)
 ## Open Source
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 - [How I built a Web Framework and became an open source maintainer](https://blog.florimondmanca.com/how-i-built-a-web-framework-and-became-an-open-source-maintainer)
@@ -112,6 +112,7 @@
 - [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html)
 - [Interactive SICP](https://xuanji.appspot.com/isicp/)
 - [Statistics done wrong](https://www.statisticsdonewrong.com/)
+- [immersive Math](http://immersivemath.com/ila/index.htm)
 
 ## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
@@ -142,6 +143,7 @@
 - [Why I'm the best programmer in the world](https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/)
 - [So you want to be a Wizard?](https://jvns.ca/blog/so-you-want-to-be-a-wizard/)
 - [We don't do that here](http://www.thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
+- [Software Engineering is different from programming](https://edgecoders.com/software-engineering-is-different-from-programming-b108c135af26)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
@@ -179,7 +181,6 @@
 - [Volkswagen detects when your tests are being run in a CI server, and makes them pass](https://github.com/auchenberg/volkswagen)
 - [Fuzzing like it's 1989](https://blog.trailofbits.com/2018/12/31/fuzzing-like-its-1989/)
 
-
 ### Web Development
 - [Web Development in 2019](https://github.com/kamranahmedse/developer-roadmap)
 - [App vs. Web](https://www.atrium.co/blog/founders-should-build-website-not-mobil)
@@ -196,6 +197,8 @@
 - [CSS Coverage](https://umaar.com/dev-tips/121-css-coverage/)
 - [Javascript visualizer](https://tylermcginnis.com/javascript-visualizer)
 - [Shiny reflections for mobile websites](https://github.com/rikschennink/shiny)
+- [Cleave.js](https://nosir.github.io/cleave.js/)
+- [Simple Writer](https://xkcd.com/simplewriter/)
 
 ## Lists
 - [Top PDFs of 2018 - HackerNews](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
@@ -212,6 +215,7 @@
 - [Collaborative Whiteboard](https://wbo.openode.io/)
 - [Boss as a service](https://bossasaservice.life/)
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon)
+- [Silver searcher](https://github.com/ggreer/the_silver_searcher)
 
 ## Watercooler talks
 - [How Millennials became the Burnout generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work)
@@ -320,11 +324,16 @@
 - [Why do we need architectural diagrams?](https://www.infoq.com/articles/why-architectural-diagram)
 - [An incremental architecture approach to building systems](https://www.infoq.com/news/2019/01/rearchitecture-system-success)
 - [What if the Architect is wrong?](https://www.yegor256.com/2019/01/15/what-if-architect-is-wrong.html)
+- [Blockchain for dummies](https://medium.com/swlh/blockchain-for-dummies-d3daf2170068)
 
 ## Systems administration
 - [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - [Sysadmin left finger on power button for an hour to avert SAP outage](https://www.theregister.co.uk/2018/03/05/who_me/)
+- [What's a container architecture design?](https://medium.com/fintechexplained/what-is-a-container-architecture-design-54826e93fc18)
 
 ## AI
 - [Translator for AI](https://www.quantamagazine.org/been-kim-is-building-a-translator-for-artificial-intelligence-20190110)
 - [Unprovability comes to machine learning](https://www.nature.com/articles/d41586-019-00012-4)
+
+## Design
+- [GitHub Redesign](http://tonsky.me/blog/github-redesign/)
