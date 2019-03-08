@@ -48,9 +48,13 @@
 - [Beyond the Hello Word of Python's print function](http://blog.lerner.co.il/beyond-the-hello-world-of-pythons-print-function/)
 - [str.isdigit vs str.isnumeric](https://blog.lerner.co.il/pythons-str-isdigit-vs-str-isnumeric/)
 - [String Formatting](https://kite.com/blog/python/python-string-formatting)
+
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
 - [Learn Prolog now](http://www.learnprolognow.org/lpnpage.php)
+- [Understanding python slices](https://blog.lerner.co.il/understanding-python-slices/)
+- [Refactoring Python Apps for Simplicity](https://realpython.com/python-refactoring/)
+- [The CPython Bytecode Compiler](https://nullprogram.com/blog/2019/02/24/)
 
 ### JS
 - [Little Known JS features](https://blog.usejournal.com/little-known-features-of-javascript-901665291387?mkt_tok=eyJpIjoiWVRVd1l6aGtZVGN6TmpBeiIsInQiOiJVVWxOSGpUOTF5dlNwY1wvUG9sU3dJUEdaTDBIS09cLzdJMHdUQmpWeHpEdWxnRGlwWkpyQjcrbWJ4RnFZVzNBaUo5XC95Q0ZmTFdcL05aMEM0UlBuUng0QTRVR0Z6enM4U2dvNWFNS3UwWTZFVytqNjRPekZYejBEdDFIVm4zc3k5V3YifQ)
@@ -91,7 +95,6 @@
 - [Deepfake videos](https://www.wired.com/story/these-new-tricks-can-outsmart-deepfake-videosfor-now/)
 - [How a Hacker Convinced Motorola to Send Him Source Code](https://www.youtube.com/watch?v=UBaVek2oTtc)
 - [Why the NSA called me after midnight and requested my source code](https://medium.com/datadriveninvestor/why-the-nsa-called-me-after-midnight-and-requested-my-source-code-f7076c59ab3d)
-- [VirtualBox 0day](https://github.com/MorteNoir1/virtualbox_e1000_0day)
 - [UEFI Explotation for the masses](https://www.youtube.com/watch?v=CxqNgjMZAbk)
 - [Do you really knows CORS?](http://performantcode.com/web/do-you-really-know-cors)
 - [Be safe online](https://securitycheckli.st/)
@@ -102,6 +105,7 @@
 - [FaceTime bug lets you hear the audio of the person you are calling](https://9to5mac.com/2019/01/28/facetime-bug-hear-audio)
 - [Zerodium raises 0-day payout ceiling to $2M](https://threatpost.com/zerodium-raises-zero-day-payout-ceiling-to-2m/140624/)
 - [Awesome Python security](https://github.com/guardrailsio/awesome-python-security)
+- [10 ways to secure your apps](https://blog.heroku.com/ten-ways-to-secure-your-apps)
 
 ##Books
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
@@ -160,6 +164,7 @@
 - [Explaining the unexplainable](https://www.depesz.com/2013/04/16/explaining-the-unexplainable/)
 - [SQL: Most valueable skill](http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill)
 - [Understanding Postgres Performance](http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
+- [How your postgresql data model affects storage](https://info.crunchydata.com/blog/how-your-postgresql-data-model-affects-storage)
 
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
@@ -199,6 +204,7 @@
 - [Shiny reflections for mobile websites](https://github.com/rikschennink/shiny)
 - [Cleave.js](https://nosir.github.io/cleave.js/)
 - [Simple Writer](https://xkcd.com/simplewriter/)
+- [Gremlin: Chaos-engineering](https://www.gremlin.com/)
 
 ## Lists
 - [Top PDFs of 2018 - HackerNews](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
@@ -207,6 +213,7 @@
 - [Professional Programming](https://github.com/charlax/professional-programming)
 - [Public Speaking](https://github.com/vmbrasseur/Public_Speaking)
 - [Public APIs](https://github.com/toddmotto/public-apis)
+- [Awesome Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics)
 
 ## Misc. Tools
 - [Build your personal knowledge base](https://github.com/zadam/trilium)
@@ -281,6 +288,8 @@
 - [If loving computers is wrong, I don't want to be right](https://blog.codinghorror.com/if-loving-computers-is-wrong-i-dont-want-to-be-right/)
 - [Microsoft Bob](https://en.wikipedia.org/wiki/Microsoft_Bob)
 - [Amb Operator](http://www.randomhacks.net/2005/10/11/amb-operator)
+- [Remembering a Programming Language that helped shape the digital New York Times](https://open.nytimes.com/remembering-a-programming-language-that-helped-shape-the-digital-new-york-times-cd809d707c74)
+
 
 ###Games
 - [8-bit workshop](https://8bitworkshop.com/)
