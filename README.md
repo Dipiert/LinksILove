@@ -28,7 +28,7 @@
 - [How not to be afraid of vim anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 - [How to be successful](http://blog.samaltman.com/how-to-be-successful)
 - [Compounding Knowledge](https://fs.blog/2019/02/compounding-knowledge/)
-- [Pretend your time is worth US$1000/hour](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
+- [On product engineering](https://www.yergler.net/2017/09/11/on-product-engineering/)
 
 ## Programming Languages
 ### C
@@ -48,6 +48,7 @@
 - [Beyond the Hello Word of Python's print function](http://blog.lerner.co.il/beyond-the-hello-world-of-pythons-print-function/)
 - [str.isdigit vs str.isnumeric](https://blog.lerner.co.il/pythons-str-isdigit-vs-str-isnumeric/)
 - [String Formatting](https://kite.com/blog/python/python-string-formatting)
+- [The src for the zen of Python violates the zen of Python](https://www.reddit.com/r/Python/comments/azuq9g/mildly_interesting_the_source_for_the_zen_of/)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
@@ -79,6 +80,7 @@
 - [Hacker Tools](https://hacker-tools.github.io/)
 - [Riddles](https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml)
 - [Linux Journey](https://linuxjourney.com/)
+
 ## Open Source
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 - [How I built a Web Framework and became an open source maintainer](https://blog.florimondmanca.com/how-i-built-a-web-framework-and-became-an-open-source-maintainer)
@@ -117,6 +119,7 @@
 - [Interactive SICP](https://xuanji.appspot.com/isicp/)
 - [Statistics done wrong](https://www.statisticsdonewrong.com/)
 - [immersive Math](http://immersivemath.com/ila/index.htm)
+- [Top books on Stack Overflow and other Sack Exchange sites](https://bookinsider.gitlab.io/)
 
 ## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
@@ -223,6 +226,7 @@
 - [Boss as a service](https://bossasaservice.life/)
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon)
 - [Silver searcher](https://github.com/ggreer/the_silver_searcher)
+- [Open Source Image Charts replacement](https://quickchart.io/)
 
 ## Watercooler talks
 - [How Millennials became the Burnout generation](https://www.buzzfeednews.com/article/annehelenpetersen/millennials-burnout-generation-debt-work)
@@ -289,7 +293,8 @@
 - [Microsoft Bob](https://en.wikipedia.org/wiki/Microsoft_Bob)
 - [Amb Operator](http://www.randomhacks.net/2005/10/11/amb-operator)
 - [Remembering a Programming Language that helped shape the digital New York Times](https://open.nytimes.com/remembering-a-programming-language-that-helped-shape-the-digital-new-york-times-cd809d707c74)
-
+- [PCjs](https://www.pcjs.org/)
+- [XKCD Style plots in matplotlib](https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib)
 
 ###Games
 - [8-bit workshop](https://8bitworkshop.com/)
