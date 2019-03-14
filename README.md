@@ -49,6 +49,7 @@
 - [str.isdigit vs str.isnumeric](https://blog.lerner.co.il/pythons-str-isdigit-vs-str-isnumeric/)
 - [String Formatting](https://kite.com/blog/python/python-string-formatting)
 - [The src for the zen of Python violates the zen of Python](https://www.reddit.com/r/Python/comments/azuq9g/mildly_interesting_the_source_for_the_zen_of/)
+- [Matplotlib explained](https://kite.com/blog/python/matplotlib/tutorial)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
