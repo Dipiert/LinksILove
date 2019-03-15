@@ -181,6 +181,7 @@
 - [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
 - [How to teach git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 - [Git History - Tool](https://github.com/pomber/git-history)
+- [Write yourself a git](https://wyag.thb.lt/)
 
 ### QA
 - [Hunting mutants with mutmut](https://medium.com/poka-techblog/hunting-mutants-with-mutmut-5f575b625598)
@@ -296,8 +297,10 @@
 - [Remembering a Programming Language that helped shape the digital New York Times](https://open.nytimes.com/remembering-a-programming-language-that-helped-shape-the-digital-new-york-times-cd809d707c74)
 - [PCjs](https://www.pcjs.org/)
 - [XKCD Style plots in matplotlib](https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib)
+- [Stackroboflow](https://stackroboflow.com)
+- [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty)
 
-###Games
+### Games
 - [8-bit workshop](https://8bitworkshop.com/)
 - [Pink Trombone](https://dood.al/pinktrombone/)
 - [The Mine](https://codepen.io/jcoulterdesign/pen/NOMeEb)
@@ -352,3 +355,6 @@
 
 ## Design
 - [GitHub Redesign](http://tonsky.me/blog/github-redesign/)
+
+## Operative Systems
+- [How does a mutex work? What does it cost?](https://mortoray.com/2019/02/20/how-does-a-mutex-work-what-does-it-cost)
