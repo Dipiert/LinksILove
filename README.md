@@ -50,6 +50,8 @@
 - [String Formatting](https://kite.com/blog/python/python-string-formatting)
 - [The src for the zen of Python violates the zen of Python](https://www.reddit.com/r/Python/comments/azuq9g/mildly_interesting_the_source_for_the_zen_of/)
 - [Matplotlib explained](https://kite.com/blog/python/matplotlib/tutorial)
+- [Why operators are useful?](https://neopythonic.blogspot.com/2019/03/why-operators-are-useful.html)
+- [Why Python uses 0-based indexing](https://plus.google.com/115212051037621986145/posts/YTUxbXYZyfi)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
@@ -152,6 +154,7 @@
 - [So you want to be a Wizard?](https://jvns.ca/blog/so-you-want-to-be-a-wizard/)
 - [We don't do that here](http://www.thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
 - [Software Engineering is different from programming](https://edgecoders.com/software-engineering-is-different-from-programming-b108c135af26)
+- [Move slowly and fix things](https://medium.com/signal-v-noise/move-slowly-and-fix-things-e5a560fd928b)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
@@ -161,6 +164,7 @@
 - [Google Interview Problems: Synonymous queries](https://medium.com/@alexgolec/google-interview-problems-synonymous-queries-36425145387c)
 - [Interview Questions](https://www.careercup.com/)
 - [OOP before OOP with Simula](https://twobithistory.org/2019/01/31/simula.html)
+- [why indexes start at 0?](http://exple.tive.org/blarg/2013/10/22/citation-needed/)
 
 ### Databases
 - [Postgresql Internals](http://www.interdb.jp/pg/index.html)
