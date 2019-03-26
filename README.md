@@ -15,6 +15,7 @@
 - [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 - [Vim: How to start using the Text Editor for Devs](https://hackernoon.com/vim-the-text-editor-millenials-are-killing-and-how-we-can-stop-them-feadc8d5038)
 - [Problem solving with Unix commands](http://vegardstikbakke.com/unix)
+- [Unix History Repo](https://github.com/dspinellis/unix-history-repo)
 
 ## Productivity
 - [8 productivity tips for Github](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
@@ -29,6 +30,7 @@
 - [How to be successful](http://blog.samaltman.com/how-to-be-successful)
 - [Compounding Knowledge](https://fs.blog/2019/02/compounding-knowledge/)
 - [On product engineering](https://www.yergler.net/2017/09/11/on-product-engineering/)
+- [You are not behind](https://zackkanter.com/2016/01/13/you-are-not-behind/)
 
 ## Programming Languages
 ### C
@@ -155,6 +157,8 @@
 - [We don't do that here](http://www.thagomizer.com/blog/2017/09/29/we-don-t-do-that-here.html)
 - [Software Engineering is different from programming](https://edgecoders.com/software-engineering-is-different-from-programming-b108c135af26)
 - [Move slowly and fix things](https://medium.com/signal-v-noise/move-slowly-and-fix-things-e5a560fd928b)
+- [Build yourself a DVCS (just like Git)](https://s.ransara.xyz/notes/2019/build-yourself-a-distributed-version-control-system-just-like-git)
+- [Defining a distinguished engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
@@ -359,6 +363,7 @@
 
 ## Design
 - [GitHub Redesign](http://tonsky.me/blog/github-redesign/)
+- [Read color hex codes](https://www.dotconferences.com/2018/11/david-desandro-read-color-hex-codes)
 
 ## Operative Systems
 - [How does a mutex work? What does it cost?](https://mortoray.com/2019/02/20/how-does-a-mutex-work-what-does-it-cost)
