@@ -113,6 +113,8 @@
 - [Zerodium raises 0-day payout ceiling to $2M](https://threatpost.com/zerodium-raises-zero-day-payout-ceiling-to-2m/140624/)
 - [Awesome Python security](https://github.com/guardrailsio/awesome-python-security)
 - [10 ways to secure your apps](https://blog.heroku.com/ten-ways-to-secure-your-apps)
+- [Merkle's puzzles](https://en.wikipedia.org/wiki/Merkle%27s_Puzzles)
+- [S/KEY Algorithm](https://en.wikipedia.org/wiki/S/KEY)
 
 ##Books
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
@@ -307,6 +309,8 @@
 - [XKCD Style plots in matplotlib](https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib)
 - [Stackroboflow](https://stackroboflow.com)
 - [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty)
+- [Name it and they'll come](https://overreacted.io/name-it-and-they-will-come/)
+- [Genderless Voice](https://www.genderlessvoice.com)
 
 ### Games
 - [8-bit workshop](https://8bitworkshop.com/)
@@ -315,6 +319,7 @@
 - [ASCII 3D](https://yeahpython.github.io/game/game.html)
 - [Model Metropolis](https://logicmag.io/06-model-metropolis/)
 - [Linjat - a puzzle game](https://linjat.snellman.net/)
+- [Untrusted - a JS adventure game](https://alexnisnevich.github.io/untrusted/)
 
 ### Videos
 - [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
@@ -365,5 +370,6 @@
 - [GitHub Redesign](http://tonsky.me/blog/github-redesign/)
 - [Read color hex codes](https://www.dotconferences.com/2018/11/david-desandro-read-color-hex-codes)
 
-## Operative Systems
+## Operating Systems
 - [How does a mutex work? What does it cost?](https://mortoray.com/2019/02/20/how-does-a-mutex-work-what-does-it-cost)
+- [Gentle Introduction to multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)
