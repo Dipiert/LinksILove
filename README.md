@@ -31,6 +31,7 @@
 - [Compounding Knowledge](https://fs.blog/2019/02/compounding-knowledge/)
 - [On product engineering](https://www.yergler.net/2017/09/11/on-product-engineering/)
 - [You are not behind](https://zackkanter.com/2016/01/13/you-are-not-behind/)
+- [Productivity is about attention management](https://www.nytimes.com/2019/03/28/smarter-living/productivity-isnt-about-time-management-its-about-attention-management.html)
 
 ## Programming Languages
 ### C
@@ -54,6 +55,8 @@
 - [Matplotlib explained](https://kite.com/blog/python/matplotlib/tutorial)
 - [Why operators are useful?](https://neopythonic.blogspot.com/2019/03/why-operators-are-useful.html)
 - [Why Python uses 0-based indexing](https://plus.google.com/115212051037621986145/posts/YTUxbXYZyfi)
+- [Python coding interview tips](https://realpython.com/python-coding-interview-tips)
+- [Monkey patching in python explained](https://mypythonlessons.blogspot.com/2019/03/monkey-patching-in-python-explained.html)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
@@ -85,7 +88,7 @@
 - [Hacker Tools](https://hacker-tools.github.io/)
 - [Riddles](https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml)
 - [Linux Journey](https://linuxjourney.com/)
-
+- [Kaggle: your home for Data Science](https://www.kaggle.com/)
 ## Open Source
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 - [How I built a Web Framework and became an open source maintainer](https://blog.florimondmanca.com/how-i-built-a-web-framework-and-became-an-open-source-maintainer)
@@ -161,6 +164,8 @@
 - [Move slowly and fix things](https://medium.com/signal-v-noise/move-slowly-and-fix-things-e5a560fd928b)
 - [Build yourself a DVCS (just like Git)](https://s.ransara.xyz/notes/2019/build-yourself-a-distributed-version-control-system-just-like-git)
 - [Defining a distinguished engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer)
+- [What's idempotence?](https://lispcast.com/what-is-idempotence)
+- [Don't call yourself a programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
@@ -179,6 +184,7 @@
 - [SQL: Most valueable skill](http://www.craigkerstiens.com/2019/02/12/sql-most-valuable-skill)
 - [Understanding Postgres Performance](http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
 - [How your postgresql data model affects storage](https://info.crunchydata.com/blog/how-your-postgresql-data-model-affects-storage)
+- [Let's build a simple database](https://cstack.github.io/db_tutorial/)
 
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
@@ -311,6 +317,8 @@
 - [Acoustic Kitty](https://en.wikipedia.org/wiki/Acoustic_Kitty)
 - [Name it and they'll come](https://overreacted.io/name-it-and-they-will-come/)
 - [Genderless Voice](https://www.genderlessvoice.com)
+- [Thoughter](https://aytwit.com/thoughter)
+- [Adventures of putting 16GB of ram in a motherboard that doesn't support it](https://www.downtowndougbrown.com/2019/04/adventures-of-putting-16-gb-of-ram-in-a-motherboard-that-doesnt-support-it)
 
 ### Games
 - [8-bit workshop](https://8bitworkshop.com/)
