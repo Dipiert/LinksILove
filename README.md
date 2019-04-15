@@ -57,6 +57,7 @@
 - [Why Python uses 0-based indexing](https://plus.google.com/115212051037621986145/posts/YTUxbXYZyfi)
 - [Python coding interview tips](https://realpython.com/python-coding-interview-tips)
 - [Monkey patching in python explained](https://mypythonlessons.blogspot.com/2019/03/monkey-patching-in-python-explained.html)
+- [Python-cheatsheet](https://gto76.github.io/python-cheatsheet)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
@@ -89,6 +90,8 @@
 - [Riddles](https://www.ocf.berkeley.edu/~wwu/riddles/intro.shtml)
 - [Linux Journey](https://linuxjourney.com/)
 - [Kaggle: your home for Data Science](https://www.kaggle.com/)
+- [App Ideas](https://github.com/florinpop17/app-ideas)
+
 ## Open Source
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
 - [How I built a Web Framework and became an open source maintainer](https://blog.florimondmanca.com/how-i-built-a-web-framework-and-became-an-open-source-maintainer)
@@ -319,6 +322,10 @@
 - [Genderless Voice](https://www.genderlessvoice.com)
 - [Thoughter](https://aytwit.com/thoughter)
 - [Adventures of putting 16GB of ram in a motherboard that doesn't support it](https://www.downtowndougbrown.com/2019/04/adventures-of-putting-16-gb-of-ram-in-a-motherboard-that-doesnt-support-it)
+- [It seems that Google is forgetting the old web](http://stop.zona-m.net/2018/01/indeed-it-seems-that-google-is-forgetting-the-old-web)
+- [Ethical Alternatives & Resources](https://ethical.net/resources/)
+- [Anvil firing](https://en.wikipedia.org/wiki/Anvil_firing)
+- [Computer graphics from scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 
 ### Games
 - [8-bit workshop](https://8bitworkshop.com/)
@@ -369,6 +376,8 @@
 - [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
 - [Sysadmin left finger on power button for an hour to avert SAP outage](https://www.theregister.co.uk/2018/03/05/who_me/)
 - [What's a container architecture design?](https://medium.com/fintechexplained/what-is-a-container-architecture-design-54826e93fc18)
+- [Fault Tolerant Systems: tools](https://opensource.com/article/19/3/tools-fault-tolerant-system)
+- [Lessons from 300k+ lines of infraestructure code](https://www.infoq.com/presentations/infrastructure-cookbook)
 
 ## AI
 - [Translator for AI](https://www.quantamagazine.org/been-kim-is-building-a-translator-for-artificial-intelligence-20190110)
