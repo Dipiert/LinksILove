@@ -326,6 +326,8 @@
 - [Ethical Alternatives & Resources](https://ethical.net/resources/)
 - [Anvil firing](https://en.wikipedia.org/wiki/Anvil_firing)
 - [Computer graphics from scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
+- [I found two identical packs of skittles among 468 packs](https://possiblywrong.wordpress.com/2019/04/06/follow-up-i-found-two-identical-packs-of-skittles-among-468-packs-with-a-total-of-27740-skittles)
+- [Animating URLs with JS & emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%97)
 
 ### Games
 - [8-bit workshop](https://8bitworkshop.com/)
