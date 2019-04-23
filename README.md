@@ -58,6 +58,7 @@
 - [Python coding interview tips](https://realpython.com/python-coding-interview-tips)
 - [Monkey patching in python explained](https://mypythonlessons.blogspot.com/2019/03/monkey-patching-in-python-explained.html)
 - [Python-cheatsheet](https://gto76.github.io/python-cheatsheet)
+- [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
@@ -121,6 +122,7 @@
 - [10 ways to secure your apps](https://blog.heroku.com/ten-ways-to-secure-your-apps)
 - [Merkle's puzzles](https://en.wikipedia.org/wiki/Merkle%27s_Puzzles)
 - [S/KEY Algorithm](https://en.wikipedia.org/wiki/S/KEY)
+- [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/)
 
 ##Books
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
@@ -169,6 +171,7 @@
 - [Defining a distinguished engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer)
 - [What's idempotence?](https://lispcast.com/what-is-idempotence)
 - [Don't call yourself a programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+- [One secret to becoming a great software engineer: read code](https://hackernoon.com/one-secret-to-becoming-a-great-software-engineer-read-code-467e31f243b0)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
@@ -188,6 +191,7 @@
 - [Understanding Postgres Performance](http://www.craigkerstiens.com/2012/10/01/understanding-postgres-performance/)
 - [How your postgresql data model affects storage](https://info.crunchydata.com/blog/how-your-postgresql-data-model-affects-storage)
 - [Let's build a simple database](https://cstack.github.io/db_tutorial/)
+- [SQL Inner & Outer Joins](https://eli.thegreenplace.net/2019/sql-inner-and-outer-joins/)
 
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
