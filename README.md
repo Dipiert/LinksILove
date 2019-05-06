@@ -59,18 +59,17 @@
 - [Monkey patching in python explained](https://mypythonlessons.blogspot.com/2019/03/monkey-patching-in-python-explained.html)
 - [Python-cheatsheet](https://gto76.github.io/python-cheatsheet)
 - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
+- [Debugging-friendly tracebacks for Python](https://github.com/cknd/stackprinter)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
 - [Learn Prolog now](http://www.learnprolognow.org/lpnpage.php)
 - [Understanding python slices](https://blog.lerner.co.il/understanding-python-slices/)
 - [Refactoring Python Apps for Simplicity](https://realpython.com/python-refactoring/)
-- [The CPython Bytecode Compiler](https://nullprogram.com/blog/2019/02/24/)
 
 ### JS
 - [Little Known JS features](https://blog.usejournal.com/little-known-features-of-javascript-901665291387?mkt_tok=eyJpIjoiWVRVd1l6aGtZVGN6TmpBeiIsInQiOiJVVWxOSGpUOTF5dlNwY1wvUG9sU3dJUEdaTDBIS09cLzdJMHdUQmpWeHpEdWxnRGlwWkpyQjcrbWJ4RnFZVzNBaUo5XC95Q0ZmTFdcL05aMEM0UlBuUng0QTRVR0Z6enM4U2dvNWFNS3UwWTZFVytqNjRPekZYejBEdDFIVm4zc3k5V3YifQ)
 - [History of JS](https://www.youtube.com/watch?v=CseCDFed458)
-- [Compiler Basics: Lisp to assembly](http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
 
 ### Clojure
 - [Every Clojure talk ever](https://www.youtube.com/watch?v=jlPaby7suOc)
@@ -92,6 +91,11 @@
 - [Linux Journey](https://linuxjourney.com/)
 - [Kaggle: your home for Data Science](https://www.kaggle.com/)
 - [App Ideas](https://github.com/florinpop17/app-ideas)
+
+## Compilers
+- [Compiler Talk 2019](venge.net/graydon/talks/CompilerTalk-2019.pdf)
+- [The CPython Bytecode Compiler](https://nullprogram.com/blog/2019/02/24/)
+- [Compiler Basics: Lisp to assembly](http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html)
 
 ## Open Source
 - [6 pivotal moments in open source history](https://opensource.com/article/18/2/pivotal-moments-history-open-source)
@@ -172,6 +176,7 @@
 - [What's idempotence?](https://lispcast.com/what-is-idempotence)
 - [Don't call yourself a programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 - [One secret to becoming a great software engineer: read code](https://hackernoon.com/one-secret-to-becoming-a-great-software-engineer-read-code-467e31f243b0)
+- [Why Software Projects need Heroes (Lessons learned from 1100+ Projects)](https://arxiv.org/pdf/1904.09954.pdf)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
@@ -182,6 +187,7 @@
 - [Interview Questions](https://www.careercup.com/)
 - [OOP before OOP with Simula](https://twobithistory.org/2019/01/31/simula.html)
 - [why indexes start at 0?](http://exple.tive.org/blarg/2013/10/22/citation-needed/)
+- [100 Suggested Final Project Topics](http://web.stanford.edu/class/cs166/handouts/100%20Suggested%20Final%20Project%20Topics.pdf)
 
 ### Databases
 - [Postgresql Internals](http://www.interdb.jp/pg/index.html)
@@ -205,6 +211,7 @@
 - [How to teach git](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 - [Git History - Tool](https://github.com/pomber/git-history)
 - [Write yourself a git](https://wyag.thb.lt/)
+- [Pro git book](https://git-scm.com/book/en/v2)
 
 ### QA
 - [Hunting mutants with mutmut](https://medium.com/poka-techblog/hunting-mutants-with-mutmut-5f575b625598)
@@ -223,6 +230,8 @@
 - [Immutable Web Apps](https://immutablewebapps.org/)
 - [Incomplete List of CSS Mistakes](https://wiki.csswg.org/ideas/mistakes)
 - [What's the space overhead of base64 encoding](https://lemire.me/blog/2019/01/30/what-is-the-space-overhead-of-base64-encoding/)
+- [The inception bar a ](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method)
+
 
 #### Tools
 - [Network Overrides](https://umaar.com/dev-tips/162-network-overrides/)
@@ -332,6 +341,12 @@
 - [Computer graphics from scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 - [I found two identical packs of skittles among 468 packs](https://possiblywrong.wordpress.com/2019/04/06/follow-up-i-found-two-identical-packs-of-skittles-among-468-packs-with-a-total-of-27740-skittles)
 - [Animating URLs with JS & emojis](http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%97)
+- [Makerlog](https://getmakerlog.com)
+- [Letter from you](https://letterfromyou.com/)
+- [Janer Airlines](https://en.wikipedia.org/wiki/Janet_(airline))
+- [A Conspiracy to kill IE6](http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- [Apollo 15 Postal Covers Incident](https://en.wikipedia.org/wiki/Apollo_15_postal_covers_incident)
+- [Baghdad Battery](https://en.wikipedia.org/wiki/Baghdad_Battery)
 
 ### Games
 - [8-bit workshop](https://8bitworkshop.com/)
@@ -369,6 +384,7 @@
 - [Non-euclidean worlds](https://www.youtube.com/watch?v=kEB11PQ9Eo8)
 - [Math & Analogies](https://betterexplained.com/articles/math-and-analogies/)
 - [Interactive introduction to Fourier Transform](http://www.jezzamon.com/fourier/index.html)
+- [Why isn't 1 a prime number?](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number)
 
 ## Software Architecture
 - [10 tips for failing badly at microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
