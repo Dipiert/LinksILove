@@ -60,6 +60,8 @@
 - [Python-cheatsheet](https://gto76.github.io/python-cheatsheet)
 - [So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 - [Debugging-friendly tracebacks for Python](https://github.com/cknd/stackprinter)
+- [Interview with Guido Van Rossum](https://www.tfir.io/guido-van-rossum-creator-of-python-video/)
+- [Wily Python: writing simpler and more maintainable Python](https://www.youtube.com/watch?v=dqdsNoApJ80)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
@@ -198,6 +200,7 @@
 - [How your postgresql data model affects storage](https://info.crunchydata.com/blog/how-your-postgresql-data-model-affects-storage)
 - [Let's build a simple database](https://cstack.github.io/db_tutorial/)
 - [SQL Inner & Outer Joins](https://eli.thegreenplace.net/2019/sql-inner-and-outer-joins/)
+- [We can do better than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
