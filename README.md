@@ -62,6 +62,7 @@
 - [Debugging-friendly tracebacks for Python](https://github.com/cknd/stackprinter)
 - [Interview with Guido Van Rossum](https://www.tfir.io/guido-van-rossum-creator-of-python-video/)
 - [Wily Python: writing simpler and more maintainable Python](https://www.youtube.com/watch?v=dqdsNoApJ80)
+- [30 Seconds of Python code] (https://github.com/kriadmin/30-seconds-of-python-code)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
