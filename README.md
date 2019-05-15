@@ -63,6 +63,8 @@
 - [Interview with Guido Van Rossum](https://www.tfir.io/guido-van-rossum-creator-of-python-video/)
 - [Wily Python: writing simpler and more maintainable Python](https://www.youtube.com/watch?v=dqdsNoApJ80)
 - [30 Seconds of Python code](https://github.com/kriadmin/30-seconds-of-python-code)
+- [Things you are probable not using in Python 3 but should](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
+- [Python dicts and memory usage](https://lerner.co.il/2019/05/12/python-dicts-and-memory-usage/)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
@@ -180,6 +182,7 @@
 - [Don't call yourself a programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 - [One secret to becoming a great software engineer: read code](https://hackernoon.com/one-secret-to-becoming-a-great-software-engineer-read-code-467e31f243b0)
 - [Why Software Projects need Heroes (Lessons learned from 1100+ Projects)](https://arxiv.org/pdf/1904.09954.pdf)
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
