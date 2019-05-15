@@ -62,7 +62,7 @@
 - [Debugging-friendly tracebacks for Python](https://github.com/cknd/stackprinter)
 - [Interview with Guido Van Rossum](https://www.tfir.io/guido-van-rossum-creator-of-python-video/)
 - [Wily Python: writing simpler and more maintainable Python](https://www.youtube.com/watch?v=dqdsNoApJ80)
-- [30 Seconds of Python code] (https://github.com/kriadmin/30-seconds-of-python-code)
+- [30 Seconds of Python code](https://github.com/kriadmin/30-seconds-of-python-code)
 
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
@@ -131,7 +131,7 @@
 - [S/KEY Algorithm](https://en.wikipedia.org/wiki/S/KEY)
 - [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/)
 
-##Books
+## Books
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
 - [Crypto 101](https://www.crypto101.io/)
 - [Elementos de Euclides interactivo](https://www.c82.net/euclid/)
