@@ -68,6 +68,7 @@
 - [Things you are probable not using in Python 3 but should](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
 - [Python dicts and memory usage](https://lerner.co.il/2019/05/12/python-dicts-and-memory-usage/)
 
+
 ### Prolog
 - [Solving murder with Prolog](https://xmonader.github.io/prolog/2018/12/21/solving-murder-prolog.html)
 - [Learn Prolog now](http://www.learnprolognow.org/lpnpage.php)
