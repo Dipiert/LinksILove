@@ -16,6 +16,7 @@
 - [Vim: How to start using the Text Editor for Devs](https://hackernoon.com/vim-the-text-editor-millenials-are-killing-and-how-we-can-stop-them-feadc8d5038)
 - [Problem solving with Unix commands](http://vegardstikbakke.com/unix)
 - [Unix History Repo](https://github.com/dspinellis/unix-history-repo)
+- [7 surprising bash variables](https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/)
 
 ## Productivity
 - [8 productivity tips for Github](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn)
@@ -37,6 +38,7 @@
 ### C
 - [C for JS Devs: Program Compilation. Source vs Header Files](https://itnext.io/c-for-javascript-developers-program-compilation-source-vs-header-files-1829a69a0a56)
 - [Why aren't there C Conferences](https://nullprogram.com/blog/2018/11/21/)
+- [f() cs f(void) in C vs C++)](https://nickdesaulniers.github.io/blog/2019/05/12/f-vs-f-void-in-c-vs-c-plus-plus)
 
 ### Python
 - [Inside Python dict](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
@@ -144,6 +146,7 @@
 - [Statistics done wrong](https://www.statisticsdonewrong.com/)
 - [immersive Math](http://immersivemath.com/ila/index.htm)
 - [Top books on Stack Overflow and other Sack Exchange sites](https://bookinsider.gitlab.io/)
+- [List of Free Science Books](http://physicsdatabase.com/book-list-by-title)
 
 ## Software Development
 - [Introducing ABS a programming language for shell scripting](https://medium.freecodecamp.org/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
@@ -183,6 +186,8 @@
 - [One secret to becoming a great software engineer: read code](https://hackernoon.com/one-secret-to-becoming-a-great-software-engineer-read-code-467e31f243b0)
 - [Why Software Projects need Heroes (Lessons learned from 1100+ Projects)](https://arxiv.org/pdf/1904.09954.pdf)
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+- [How to make peace with deadlines in Software Development](https://medium.freecodecamp.org/how-to-make-peace-with-deadlines-in-software-development-6cfe3e993f51)
+- [Don't test in production? Test in production!](https://opensource.com/article/19/5/dont-test-production)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
@@ -205,6 +210,7 @@
 - [Let's build a simple database](https://cstack.github.io/db_tutorial/)
 - [SQL Inner & Outer Joins](https://eli.thegreenplace.net/2019/sql-inner-and-outer-joins/)
 - [We can do better than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+- [Calculate configuration for PostgreSQL based on the maximum performance](https://pgtune.leopard.in.ua/#/)
 
 ### Text Editors
 - [An experimental Code Editor](https://github.com/ChrisKnott/Algojammer)
@@ -219,6 +225,7 @@
 - [Git History - Tool](https://github.com/pomber/git-history)
 - [Write yourself a git](https://wyag.thb.lt/)
 - [Pro git book](https://git-scm.com/book/en/v2)
+- [Learn to change history with git rebase!](https://git-rebase.io/)
 
 ### QA
 - [Hunting mutants with mutmut](https://medium.com/poka-techblog/hunting-mutants-with-mutmut-5f575b625598)
@@ -237,8 +244,7 @@
 - [Immutable Web Apps](https://immutablewebapps.org/)
 - [Incomplete List of CSS Mistakes](https://wiki.csswg.org/ideas/mistakes)
 - [What's the space overhead of base64 encoding](https://lemire.me/blog/2019/01/30/what-is-the-space-overhead-of-base64-encoding/)
-- [The inception bar a ](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method)
-
+- [The inception bar a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method)
 
 #### Tools
 - [Network Overrides](https://umaar.com/dev-tips/162-network-overrides/)
@@ -249,6 +255,7 @@
 - [Cleave.js](https://nosir.github.io/cleave.js/)
 - [Simple Writer](https://xkcd.com/simplewriter/)
 - [Gremlin: Chaos-engineering](https://www.gremlin.com/)
+- [Which is the fastest Web Framework?](https://github.com/the-benchmarker/web-frameworks)
 
 ## Lists
 - [Top PDFs of 2018 - HackerNews](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
@@ -354,6 +361,8 @@
 - [A Conspiracy to kill IE6](http://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 - [Apollo 15 Postal Covers Incident](https://en.wikipedia.org/wiki/Apollo_15_postal_covers_incident)
 - [Baghdad Battery](https://en.wikipedia.org/wiki/Baghdad_Battery)
+- [Fukushima 8 years on](https://www.podniesinski.pl/portal/fukushima-8-years-on)
+- [Scientific errors in those nat-geo milky way photos](https://petapixel.com/2019/05/10/scientific-errors-in-those-nat-geo-milky-way-photos/)
 
 ### Games
 - [8-bit workshop](https://8bitworkshop.com/)
@@ -392,6 +401,7 @@
 - [Math & Analogies](https://betterexplained.com/articles/math-and-analogies/)
 - [Interactive introduction to Fourier Transform](http://www.jezzamon.com/fourier/index.html)
 - [Why isn't 1 a prime number?](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number)
+- [On recursive functions](https://deniskyashif.com/on-recursive-functions)
 
 ## Software Architecture
 - [10 tips for failing badly at microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
@@ -419,3 +429,6 @@
 ## Operating Systems
 - [How does a mutex work? What does it cost?](https://mortoray.com/2019/02/20/how-does-a-mutex-work-what-does-it-cost)
 - [Gentle Introduction to multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading)
+
+## Networks
+- [Going critical](https://www.meltingasphalt.com/interactive/going-critical)
