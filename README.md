@@ -33,6 +33,8 @@
 - [On product engineering](https://www.yergler.net/2017/09/11/on-product-engineering/)
 - [You are not behind](https://zackkanter.com/2016/01/13/you-are-not-behind/)
 - [Productivity is about attention management](https://www.nytimes.com/2019/03/28/smarter-living/productivity-isnt-about-time-management-its-about-attention-management.html)
+- [Precrastination](https://nickwignall.com/precrastination/)
+- [Zanshin](https://jamesclear.com/zanshin)
 
 ## Programming Languages
 ### C
@@ -189,6 +191,7 @@
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 - [How to make peace with deadlines in Software Development](https://medium.freecodecamp.org/how-to-make-peace-with-deadlines-in-software-development-6cfe3e993f51)
 - [Don't test in production? Test in production!](https://opensource.com/article/19/5/dont-test-production)
+- [Alan Kay & OO Programming](https://ovid.github.io/articles/alan-kay-and-oo-programming.html)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
