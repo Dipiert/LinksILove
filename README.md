@@ -192,6 +192,9 @@
 - [How to make peace with deadlines in Software Development](https://medium.freecodecamp.org/how-to-make-peace-with-deadlines-in-software-development-6cfe3e993f51)
 - [Don't test in production? Test in production!](https://opensource.com/article/19/5/dont-test-production)
 - [Alan Kay & OO Programming](https://ovid.github.io/articles/alan-kay-and-oo-programming.html)
+- [Alan Kay & missing messages](https://ovid.github.io/articles/alan-kay-and-missing-messages-a-follow-up.html)
+- [Unicode Programming with examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
+- [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
 
 ### Algorithms and Data structures
 - [Learning Tree data structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
