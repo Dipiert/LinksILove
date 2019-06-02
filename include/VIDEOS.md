@@ -1,0 +1,13 @@
+### Videos
+- [MegaProcessor](https://www.youtube.com/watch?v=lNa9bQRPMB8)
+- [Lego Porsche Crashtest](https://www.youtube.com/watch?v=dCPWPj4JHqg)
+- [Precious Metal Refining](https://www.youtube.com/watch?v=v5GPWJPLcHg)
+- [The Box](https://www.youtube.com/watch?v=sXFPT7FJ38k)
+- [Style-based generator architecture for generative adversarial networks](https://www.youtube.com/watch?v=kSLJriaOumA)
+- [The Art of Logic](https://www.youtube.com/watch?v=YHZKX0H6cUE)
+- [Electronic Coach](https://www.youtube.com/watch?v=dhh8Ao4yweQ)
+- [Glitter Bomb](https://www.bbc.com/news/technology-46604625)
+- [Coding for the World's trickiest chip](https://www.youtube.com/watch?v=n8plen8cLro)
+- [Live coding](https://shipstreams.com)
+- [The most unexpected answer to a counting puzzle](https://www.youtube.com/watch?v=HEfHFsfGXjs)
+- [Science fiction broken](https://slate.com/technology/2019/01/hopepunk-cyberpunk-solarpunk-science-fiction-broken.html)

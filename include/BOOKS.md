@@ -1,0 +1,12 @@
+# Books & Papers
+- [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
+- [Crypto 101](https://www.crypto101.io/)
+- [Elementos de Euclides interactivo](https://www.c82.net/euclid/)
+- [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+- [Some fundamental theorems in mathematics](https://arxiv.org/pdf/1807.08416.pdf)
+- [Professional Software Development](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html)
+- [Interactive SICP](https://xuanji.appspot.com/isicp/)
+- [Statistics done wrong](https://www.statisticsdonewrong.com/)
+- [immersive Math](http://immersivemath.com/ila/index.htm)
+- [Top books on Stack Overflow and other Sack Exchange sites](https://bookinsider.gitlab.io/)
+- [List of Free Science Books](http://physicsdatabase.com/book-list-by-title)
