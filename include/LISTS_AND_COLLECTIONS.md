@@ -1,4 +1,4 @@
-# Lists and Collections
+# Lists
 
 - [Top PDFs of 2018 - HackerNews](https://getpolarized.io/2019/01/08/top-pdfs-of-2018-hackernews.html)
 - [List of lists of interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
