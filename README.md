@@ -35,7 +35,7 @@
 ### [Web Development](include/WEB_DEVELOPMENT.md)
 ### [Tools](include/TOOLS.md)
 
-## [Lists and Collections](include/LISTS_AND_COLLECTIONS.md)
+## [Lists](include/LISTS.md)
 ## [Watercooler talks](include/WATERCOOLER_TALK.md)
 ## [Repos](include/REPOS.md)
 ## [Math](include/MATH.md)
