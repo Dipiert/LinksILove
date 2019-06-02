@@ -1,4 +1,4 @@
-### Books
+# Books & Papers
 - [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
 - [Crypto 101](https://www.crypto101.io/)
 - [Elementos de Euclides interactivo](https://www.c82.net/euclid/)
