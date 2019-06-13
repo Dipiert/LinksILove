@@ -9,3 +9,4 @@
 - [Incomplete List of CSS Mistakes](https://wiki.csswg.org/ideas/mistakes)
 - [What's the space overhead of base64 encoding](https://lemire.me/blog/2019/01/30/what-is-the-space-overhead-of-base64-encoding/)
 - [The inception bar a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method)
+- [Former Mozilla VP says Google intentionally damaged Firefox](https://wccftech.com/former-mozilla-vp-says-google-intentionally-damaged-firefox/)
