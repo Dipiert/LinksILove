@@ -25,3 +25,5 @@
 - [S/KEY Algorithm](https://en.wikipedia.org/wiki/S/KEY)
 - [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/)
 - [You probably don't need recaptcha](https://kevv.net/you-probably-dont-need-recaptcha/)
+- [Return-oriented programming](https://tetzank.github.io/posts/return-oriented-programming)
+- [ROP Emporium](https://ropemporium.com/)
