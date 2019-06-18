@@ -43,3 +43,5 @@
 - [Alan Kay & missing messages](https://ovid.github.io/articles/alan-kay-and-missing-messages-a-follow-up.html)
 - [Unicode Programming with examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html)
 - [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
+- [README MD generator](https://github.com/kefranabg/readme-md-generator)
+- [Things I learnt the hard way (in 30 years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way)
