@@ -6,3 +6,4 @@
 - [An incremental architecture approach to building systems](https://www.infoq.com/news/2019/01/rearchitecture-system-success)
 - [What if the Architect is wrong?](https://www.yegor256.com/2019/01/15/what-if-architect-is-wrong.html)
 - [Blockchain for dummies](https://medium.com/swlh/blockchain-for-dummies-d3daf2170068)
+- [Principles for Decision-Making in a Flat Organization](https://doist.com/blog/decision-making-flat-organization)
