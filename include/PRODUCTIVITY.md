@@ -15,3 +15,5 @@
 - [Productivity is about attention management](https://www.nytimes.com/2019/03/28/smarter-living/productivity-isnt-about-time-management-its-about-attention-management.html)
 - [Precrastination](https://nickwignall.com/precrastination/)
 - [Zanshin](https://jamesclear.com/zanshin)
+- [Everything you need to know about human learning and memory retention](https://commoncog.com/blog/everything-you-need-to-know-about-human-learning-and-memory-retention/)
+- [How to be great](https://blog.stephsmith.io/how-to-be-great/)
