@@ -89,3 +89,4 @@
 - [The last Soviet citizen](https://www.rbth.com/history/330415-last-soviet-citizen-cosmonaut)
 - [How to draw animals?](http://dessinoprimaire.blogspot.com/2012/02/les-animaux-tels-quils-sont.html)
 - [Apollo in real time](https://apolloinrealtime.org/11)
+- [How to build a universe that doesn't fall apart two days later](https://urbigenous.net/library/how_to_build.html)
