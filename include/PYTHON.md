@@ -25,3 +25,4 @@
 - [30 Seconds of Python code](https://github.com/kriadmin/30-seconds-of-python-code)
 - [Things you are probable not using in Python 3 but should](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
 - [Python dicts and memory usage](https://lerner.co.il/2019/05/12/python-dicts-and-memory-usage/)
+- [Dependencies between PSL modules](https://doughellmann.com/blog/2019/06/29/dependencies-between-python-standard-library-modules/)
