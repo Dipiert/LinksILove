@@ -90,3 +90,5 @@
 - [How to draw animals?](http://dessinoprimaire.blogspot.com/2012/02/les-animaux-tels-quils-sont.html)
 - [Apollo in real time](https://apolloinrealtime.org/11)
 - [How to build a universe that doesn't fall apart two days later](https://urbigenous.net/library/how_to_build.html)
+- [Why plants don't die from cancer](https://www.pbs.org/newshour/science/why-plants-dont-die-from-cancer)
+- [Radiotrophic fun](https://en.wikipedia.org/wiki/Radiotrophic_fungus)
