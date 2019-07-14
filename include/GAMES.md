@@ -6,3 +6,4 @@
 - [Model Metropolis](https://logicmag.io/06-model-metropolis/)
 - [Linjat - a puzzle game](https://linjat.snellman.net/)
 - [Untrusted - a JS adventure game](https://alexnisnevich.github.io/untrusted/)
+- [How Diablo was completely Reverse Engineered without source code](https://www.youtube.com/watch?v=5tADL_fmsHQ)
