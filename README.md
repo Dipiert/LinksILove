@@ -3,7 +3,7 @@
 
 ## General
 
-### [*NIX](include/NIX.md)
+### [\*NIX](include/NIX.md)
 ### [Productivity](include/PRODUCTIVITY.md)
 ### [Learning Resources](include/LEARNING_RESOURCES.md)
 ### [Compilers](include/COMPILERS.md)
@@ -13,7 +13,6 @@
 ### [Games](include/GAMES.md)
 ### [Videos](include/VIDEOS.md)
 
-
 ## Programming Languages
 
 ### [C](include/C.md)
@@ -22,6 +21,7 @@
 ### [JavaScript](include/JAVASCRIPT.md)
 ### [Clojure](include/CLOJURE.md)
 ### [PHP](include/PHP.md)
+### [Perl](include/PERL.md)
 
 ## [Infosec](include/INFOSEC.md)
 
@@ -39,7 +39,6 @@
 ## [Watercooler talks](include/WATERCOOLER_TALK.md)
 ## [Repos](include/REPOS.md)
 ## [Math](include/MATH.md)
-
 ## [Systems administration](include/SYSADMIN.md)
 ## [AI](include/AI.md)
 ## [Design](include/DESIGN.md)
