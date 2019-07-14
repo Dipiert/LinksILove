@@ -6,3 +6,4 @@
 - [Interactive introduction to Fourier Transform](http://www.jezzamon.com/fourier/index.html)
 - [Why isn't 1 a prime number?](https://blogs.scientificamerican.com/roots-of-unity/why-isnt-1-a-prime-number)
 - [On recursive functions](https://deniskyashif.com/on-recursive-functions)
+- [German Tank problem](https://www.eadan.net/blog/german-tank-problem/)
