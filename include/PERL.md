@@ -1,0 +1,1 @@
+- [Infinite work is less work](http://blogs.perl.org/users/damian_conway/2019/07/infinite-work-is-less-work.html)
