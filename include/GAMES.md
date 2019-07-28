@@ -7,3 +7,4 @@
 - [Linjat - a puzzle game](https://linjat.snellman.net/)
 - [Untrusted - a JS adventure game](https://alexnisnevich.github.io/untrusted/)
 - [How Diablo was completely Reverse Engineered without source code](https://www.youtube.com/watch?v=5tADL_fmsHQ)
+- [Let's make: Dangerous Dave](https://www.maizure.org/projects/lets-make-dangerous-dave/index.html)
