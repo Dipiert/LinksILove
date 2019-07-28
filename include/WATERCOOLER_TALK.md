@@ -92,3 +92,4 @@
 - [How to build a universe that doesn't fall apart two days later](https://urbigenous.net/library/how_to_build.html)
 - [Why plants don't die from cancer](https://www.pbs.org/newshour/science/why-plants-dont-die-from-cancer)
 - [Radiotrophic fun](https://en.wikipedia.org/wiki/Radiotrophic_fungus)
+- [Small Seasons](https://smallseasons.guide)
