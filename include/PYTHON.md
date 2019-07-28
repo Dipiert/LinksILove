@@ -26,3 +26,6 @@
 - [Things you are probable not using in Python 3 but should](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/)
 - [Python dicts and memory usage](https://lerner.co.il/2019/05/12/python-dicts-and-memory-usage/)
 - [Dependencies between PSL modules](https://doughellmann.com/blog/2019/06/29/dependencies-between-python-standard-library-modules/)
+- [Mixins](https://www.residentmar.io/2019/07/07/python-mixins.html)
+- [Anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
+- [Understanding Python bytecodes](https://www.youtube.com/watch?v=_w3a1ledmVE)
