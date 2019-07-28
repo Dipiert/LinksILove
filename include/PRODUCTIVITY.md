@@ -18,3 +18,4 @@
 - [Everything you need to know about human learning and memory retention](https://commoncog.com/blog/everything-you-need-to-know-about-human-learning-and-memory-retention/)
 - [How to be great](https://blog.stephsmith.io/how-to-be-great/)
 - [How we confuse our roles with our self](https://hbr.org/2019/06/how-we-confuse-our-roles-with-our-self)
+- [How I build learning projects](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
