@@ -9,3 +9,4 @@
 - [Write yourself a git](https://wyag.thb.lt/)
 - [Pro git book](https://git-scm.com/book/en/v2)
 - [Learn to change history with git rebase!](https://git-rebase.io/)
+- [A simple example of git bisect command](https://www.pixelstech.net/article/1562942424-A-simple-example-of-git-bisect-command)
