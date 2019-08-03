@@ -46,3 +46,4 @@
 - [README MD generator](https://github.com/kefranabg/readme-md-generator)
 - [Things I learnt the hard way (in 30 years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way)
 - [Why Google refunded 200 US$ because I Missed 5 lines of code](https://aswinmohanme.github.io/why-google-refunded-200-because-i-missed-5-lines-of-code.html)
+- [Four better rules for Software Design](https://naildrivin5.com/blog/2019/07/25/four-better-rules-for-software-design.html)
