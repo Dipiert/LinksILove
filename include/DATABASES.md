@@ -10,3 +10,4 @@
 - [SQL Inner & Outer Joins](https://eli.thegreenplace.net/2019/sql-inner-and-outer-joins/)
 - [We can do better than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 - [Calculate configuration for PostgreSQL based on the maximum performance](https://pgtune.leopard.in.ua/#/)
+- [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)
