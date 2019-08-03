@@ -11,3 +11,5 @@
 - [The inception bar a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method)
 - [Former Mozilla VP says Google intentionally damaged Firefox](https://wccftech.com/former-mozilla-vp-says-google-intentionally-damaged-firefox/)
 - [HTML is the Web](https://www.petelambert.com/journal/html-is-the-web)
+- [Ad-blocking: How about nah?](https://www.eff.org/deeplinks/2019/07/adblocking-how-about-nah)
+- [A Readable Spec of TLS 1.3](https://davidwong.fr/tls13)
