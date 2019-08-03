@@ -29,3 +29,4 @@
 - [Mixins](https://www.residentmar.io/2019/07/07/python-mixins.html)
 - [Anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 - [Understanding Python bytecodes](https://www.youtube.com/watch?v=_w3a1ledmVE)
+- [Pylint False positives](https://lukeplant.me.uk/blog/posts/pylint-false-positives/)
