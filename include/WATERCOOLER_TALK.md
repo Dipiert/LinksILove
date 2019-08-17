@@ -93,3 +93,5 @@
 - [Why plants don't die from cancer](https://www.pbs.org/newshour/science/why-plants-dont-die-from-cancer)
 - [Radiotrophic fun](https://en.wikipedia.org/wiki/Radiotrophic_fungus)
 - [Small Seasons](https://smallseasons.guide)
+- [Wine-dark sea](https://en.wikipedia.org/w/index.php?title=Wine-dark_sea_(Homer))
+- [Imaging the entire Earth, every day](https://nbremer.github.io/planet-globe/)
