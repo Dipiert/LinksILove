@@ -31,3 +31,5 @@
 - [Understanding Python bytecodes](https://www.youtube.com/watch?v=_w3a1ledmVE)
 - [Pylint False positives](https://lukeplant.me.uk/blog/posts/pylint-false-positives/)
 - [Three IoC techniques](https://seddonym.me/2019/08/03/ioc-techniques/)
+- [The Singleton pattern](https://python-patterns.guide/gang-of-four/singleton/)
+- [CPython Source Code](https://realpython.com/cpython-source-code-guide/)
