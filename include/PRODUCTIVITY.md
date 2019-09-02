@@ -20,3 +20,5 @@
 - [How we confuse our roles with our self](https://hbr.org/2019/06/how-we-confuse-our-roles-with-our-self)
 - [How I build learning projects](https://medium.com/@rchang/how-i-build-learning-projects-part-i-54dbaad68961)
 - [Coding autocompleter](https://www.theverge.com/2019/7/24/20708542/coding-autocompleter-deep-tabnine-ai-deep-learning-smart-compose)
+- [4 core fears undermining your potential](https://nickwignall.com/core-fears/)
+- [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/)
