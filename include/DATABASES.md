@@ -12,3 +12,5 @@
 - [Calculate configuration for PostgreSQL based on the maximum performance](https://pgtune.leopard.in.ua/#/)
 - [Learning SQL 201: Optimizing Queries, Regardless of Platform](https://towardsdatascience.com/learning-sql-201-optimizing-queries-regardless-of-platform-918a3af9c8b1)
 - [PostgreSQL: row level security, views and a lot of magic](https://www.cybertec-postgresql.com/en/postgresql-row-level-security-views-and-a-lot-of-magic/)
+- [SQL Concepts from A to Z](http://www.helenanderson.co.nz/sql-concepts-from-a-to-z/)
+- [SQL Relations](https://theartofpostgresql.com/blog/2019-09-sql-relations/)
