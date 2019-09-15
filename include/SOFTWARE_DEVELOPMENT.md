@@ -49,3 +49,6 @@
 - [Four better rules for Software Design](https://naildrivin5.com/blog/2019/07/25/four-better-rules-for-software-design.html)
 - [How to build good software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 - [The secret to unlimited project ideas](https://www.freecodecamp.org/news/the-secret-to-unlimited-project-ideas/)
+- [What's a total function?](https://lispcast.com/what-is-a-total-function/)
+- [5 bugs that became features](https://birdeatsbug.com/5-bugs-that-became-features)
+- [Code Review without your glasses](https://robertheaton.com/2014/06/20/code-review-without-your-eyes/)
