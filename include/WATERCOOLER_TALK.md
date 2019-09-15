@@ -95,3 +95,5 @@
 - [Small Seasons](https://smallseasons.guide)
 - [Wine-dark sea](https://en.wikipedia.org/w/index.php?title=Wine-dark_sea_(Homer))
 - [Imaging the entire Earth, every day](https://nbremer.github.io/planet-globe/)
+- [TP-82 Cosmonaut Survival Pistol](https://en.wikipedia.org/wiki/TP-82_Cosmonaut_survival_pistol)
+- [Gombe Chimpanzee War](https://en.wikipedia.org/wiki/Gombe_Chimpanzee_War)
