@@ -22,3 +22,4 @@
 - [Coding autocompleter](https://www.theverge.com/2019/7/24/20708542/coding-autocompleter-deep-tabnine-ai-deep-learning-smart-compose)
 - [4 core fears undermining your potential](https://nickwignall.com/core-fears/)
 - [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/)
+- [Going fast slowly](https://varnish-cache.org/docs/6.2/phk/thatslow.html)
