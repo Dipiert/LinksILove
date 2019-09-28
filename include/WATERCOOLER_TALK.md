@@ -97,3 +97,6 @@
 - [Imaging the entire Earth, every day](https://nbremer.github.io/planet-globe/)
 - [TP-82 Cosmonaut Survival Pistol](https://en.wikipedia.org/wiki/TP-82_Cosmonaut_survival_pistol)
 - [Gombe Chimpanzee War](https://en.wikipedia.org/wiki/Gombe_Chimpanzee_War)
+- [Church of interruption](https://sambleckley.com/writing/church-of-interruption.html)
+- [See a Satellite tonight](https://james.darpinian.com/satellites/)
+- [Stacksort](http://gkoberger.github.io/stacksort/)
