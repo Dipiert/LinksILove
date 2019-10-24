@@ -14,3 +14,4 @@
 - [Problem solving with Unix commands](http://vegardstikbakke.com/unix)
 - [Unix History Repo](https://github.com/dspinellis/unix-history-repo)
 - [7 surprising bash variables](https://zwischenzugs.com/2019/05/11/seven-surprising-bash-variables/)
+- [A Beginners Guide to Linux Kernel Development](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
