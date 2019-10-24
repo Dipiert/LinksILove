@@ -52,3 +52,4 @@
 - [What's a total function?](https://lispcast.com/what-is-a-total-function/)
 - [5 bugs that became features](https://birdeatsbug.com/5-bugs-that-became-features)
 - [Code Review without your glasses](https://robertheaton.com/2014/06/20/code-review-without-your-eyes/)
+- [Code Review Guidelines](https://phauer.com/2018/code-review-guidelines/)
