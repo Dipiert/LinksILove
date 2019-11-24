@@ -112,3 +112,7 @@
 - [Which planet is closest?](http://www.cgpgrey.com/blog/which-planet-is-closest)
 - [35 Year-old C64 Easter Egg Hidden On vinyl](https://www.youtube.com/watch?v=6_CZpFqvDQo)
 - [Hitman hires hitman who hires hitman who hires hitman who hires hitman](https://metro.co.uk/2019/10/23/hitman-hires-hitman-hires-hitman-hires-hitman-hires-hitman-tells-police-10971438/)
+- [Microsoft Comic chat](https://en.wikipedia.org/wiki/Microsoft_Comic_Chat)
+- [The skyhook](https://www.youtube.com/watch?v=dqwpQarrDwk)
+- [Context not control](https://www.sametab.com/blog/future-remote-working)
+- [Human Settlements in a Digital Universe: The No Man's Sky Archaelogical project](https://archaeologydataservice.ac.uk/blog/2019/09/no-mans-sky/)
